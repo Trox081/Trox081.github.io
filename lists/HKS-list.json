@@ -1,0 +1,618 @@
+﻿[
+    {
+        "card_name": "Bell Throw",
+        "number": 1,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Barnak Snare",
+        "number": 12,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Disgraced Cuisine",
+        "number": 23,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Boiling Work",
+        "number": 34,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Bug Charge",
+        "number": 45,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Choir Duo",
+        "number": 2,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Carefree Yumas",
+        "number": 13,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Drapelord",
+        "number": 24,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Cathartic Reunion",
+        "number": 35,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Elusive Cloverstag",
+        "number": 46,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Choir Elder",
+        "number": 3,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Citadel Vents",
+        "number": 14,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Dreg Catcher",
+        "number": 25,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Cogwork Hauler",
+        "number": 36,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Flapping Fertid",
+        "number": 47,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Courageous Charge",
+        "number": 4,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Defiant Will",
+        "number": 15,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Giant Drapemite",
+        "number": 26,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Cogworker",
+        "number": 37,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Fluttering Phacia",
+        "number": 48,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Grovelling Wanderer",
+        "number": 5,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Ductsucker",
+        "number": 16,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Infested",
+        "number": 27,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Cogworks underfly",
+        "number": 38,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Hardbone Shell",
+        "number": 49,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Judged",
+        "number": 6,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Memory Crystal",
+        "number": 17,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Mitemother",
+        "number": 28,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Grind Down",
+        "number": 39,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "HUGE Flea",
+        "number": 50,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Pharloom Guide",
+        "number": 7,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Pond Skipper",
+        "number": 18,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Patrolling Guardfly",
+        "number": 29,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Lumbering Lavalarga",
+        "number": 40,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Massive Mossgrub",
+        "number": 51,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Pilgrim Bellbearer",
+        "number": 8,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Precise Driznid",
+        "number": 19,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Plunge Into Void",
+        "number": 30,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "The Pilgrim's Way",
+        "number": 41,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Moss Grub",
+        "number": 52,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Pilgrim Shawl",
+        "number": 9,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Unfortunate Report",
+        "number": 20,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Savage Muckroach",
+        "number": 31,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Smelt Shoveler",
+        "number": 42,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Pharloom's Wilds",
+        "number": 53,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Winged Bellbearer",
+        "number": 10,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Weaver Memories",
+        "number": 21,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Skull Scuttler",
+        "number": 32,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Swift Step",
+        "number": 43,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Rambunctious Fleas",
+        "number": 54,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Winged Vantage",
+        "number": 11,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Weaver Weavings",
+        "number": 22,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Work Till Death",
+        "number": 33,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Underworks Underpoke",
+        "number": 44,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Splinterbark",
+        "number": 55,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Drifting Driftlin",
+        "number": 57,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Thieving Craw",
+        "number": 64,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Lofty Underloft",
+        "number": 59,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Scurrying Skarrlid",
+        "number": 62,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Overgrown Pilgrim",
+        "number": 61,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Unravelling Dreghusk",
+        "number": 65,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Servitor Doran",
+        "number": 63,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Hardbone Hopper",
+        "number": 58,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Choir Envoy",
+        "number": 56,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Mire Mite",
+        "number": 60,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Bench",
+        "number": 66,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Bone Compass",
+        "number": 67,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Cogfly Workshop",
+        "number": 68,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Servitor Ignim",
+        "number": 69,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Snitch Pick",
+        "number": 70,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
