@@ -1,4 +1,20 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+High Halls added.
+Choral Chambers added.
+Bilewater added.
+Underworks added.
+Whiteward added.
+Coral Tower added.
+Putrified Ducts added.
+Verdania added.
+Whispering Vaults added.
+Far Fields added.
+
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.

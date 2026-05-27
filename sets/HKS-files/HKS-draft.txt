@@ -1,0 +1,1130 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Choir Duo",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/0.png"
+			}
+		},
+		{
+			"name": "Choir Elder",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/1.png"
+			}
+		},
+		{
+			"name": "Drapelord",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/2.png"
+			}
+		},
+		{
+			"name": "Ductsucker",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/3.png"
+			}
+		},
+		{
+			"name": "HUGE Flea",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Giant Insect Flea",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/4.png"
+			}
+		},
+		{
+			"name": "Lumbering Lavalarga",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Slug",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/5.png"
+			}
+		},
+		{
+			"name": "Massive Mossgrub",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/6.png"
+			}
+		},
+		{
+			"name": "Mitemother",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/7.png"
+			}
+		},
+		{
+			"name": "Moss Grub",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/8.png"
+			}
+		},
+		{
+			"name": "Rambunctious Fleas",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Flea",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/9.png"
+			}
+		},
+		{
+			"name": "Savage Muckroach",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/10.png"
+			}
+		},
+		{
+			"name": "Smelt Shoveler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/11.png"
+			}
+		},
+		{
+			"name": "Grovelling Wanderer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect Pilgrim",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/12.png"
+			}
+		},
+		{
+			"name": "Pharloom Guide",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect Pilgrim",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/13.png"
+			}
+		},
+		{
+			"name": "Winged Bellbearer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Pilgrim",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/14.png"
+			}
+		},
+		{
+			"name": "Pond Skipper",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/15.png"
+			}
+		},
+		{
+			"name": "Citadel Vents",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/16.png"
+			}
+		},
+		{
+			"name": "Defiant Will",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/17.png"
+			}
+		},
+		{
+			"name": "Dreg Catcher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/18.png"
+			}
+		},
+		{
+			"name": "Infested",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/19.png"
+			}
+		},
+		{
+			"name": "Plunge Into Void",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/20.png"
+			}
+		},
+		{
+			"name": "Cogworker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/21.png"
+			}
+		},
+		{
+			"name": "Boiling Work",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/22.png"
+			}
+		},
+		{
+			"name": "Fluttering Phacia",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/23.png"
+			}
+		},
+		{
+			"name": "Hardbone Shell",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/24.png"
+			}
+		},
+		{
+			"name": "Bug Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/25.png"
+			}
+		},
+		{
+			"name": "Elusive Cloverstag",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect Elk",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/26.png"
+			}
+		},
+		{
+			"name": "Snitch Pick",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/27.png"
+			}
+		},
+		{
+			"name": "Bell Throw",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/28.png"
+			}
+		},
+		{
+			"name": "Winged Vantage",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/29.png"
+			}
+		},
+		{
+			"name": "Precise Driznid",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/30.png"
+			}
+		},
+		{
+			"name": "Patrolling Guardfly",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/31.png"
+			}
+		},
+		{
+			"name": "Skull Scuttler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/32.png"
+			}
+		},
+		{
+			"name": "Cathartic Reunion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/33.png"
+			}
+		},
+		{
+			"name": "Underworks Underpoke",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/34.png"
+			}
+		},
+		{
+			"name": "Splinterbark",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/35.png"
+			}
+		},
+		{
+			"name": "Grind Down",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/36.png"
+			}
+		},
+		{
+			"name": "Servitor Ignim",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Servo",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/37.png"
+			}
+		},
+		{
+			"name": "Cogfly Workshop",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/38.png"
+			}
+		},
+		{
+			"name": "Bone Compass",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/39.png"
+			}
+		},
+		{
+			"name": "Bench",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/40.png"
+			}
+		},
+		{
+			"name": "Overgrown Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}",
+			"type": "Creature — Insect Pilgrim",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/41.png"
+			}
+		},
+		{
+			"name": "Carefree Yumas",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/42.png"
+			}
+		},
+		{
+			"name": "Unravelling Dreghusk",
+			"rarity": "common",
+			"mana_cost": "{3}{W/B}",
+			"type": "Creature — Insect Zombie",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/43.png"
+			}
+		},
+		{
+			"name": "Mire Mite",
+			"rarity": "common",
+			"mana_cost": "{3}{G/U}",
+			"type": "Creature — Insect",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/44.png"
+			}
+		},
+		{
+			"name": "Servitor Doran",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/45.png"
+			}
+		},
+		{
+			"name": "Lofty Underloft",
+			"rarity": "common",
+			"mana_cost": "{3}{B/R}",
+			"type": "Creature — Insect",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/46.png"
+			}
+		},
+		{
+			"name": "Barnak Snare",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/47.png"
+			}
+		},
+		{
+			"name": "The Pilgrim's Way",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/48.png"
+			}
+		},
+		{
+			"name": "Weaver Memories",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/49.png"
+			}
+		},
+		{
+			"name": "Judged",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/50.png"
+			}
+		},
+		{
+			"name": "Giant Drapemite",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/51.png"
+			}
+		},
+		{
+			"name": "Unfortunate Report",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/52.png"
+			}
+		},
+		{
+			"name": "Cogwork Hauler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/53.png"
+			}
+		},
+		{
+			"name": "Pilgrim Shawl",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/54.png"
+			}
+		},
+		{
+			"name": "Pilgrim Bellbearer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Pilgrim",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/55.png"
+			}
+		},
+		{
+			"name": "Thieving Craw",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Insect Advisor",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/56.png"
+			}
+		},
+		{
+			"name": "Drifting Driftlin",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Creature — Insect",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/57.png"
+			}
+		},
+		{
+			"name": "Choir Envoy",
+			"rarity": "common",
+			"mana_cost": "{2}{R/W}",
+			"type": "Creature — Insect Citizen",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/58.png"
+			}
+		},
+		{
+			"name": "Hardbone Hopper",
+			"rarity": "common",
+			"mana_cost": "{3}{B/G}",
+			"type": "Creature — Insect",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/59.png"
+			}
+		},
+		{
+			"name": "Scurrying Skarrlid",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Creature — Insect",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/60.png"
+			}
+		},
+		{
+			"name": "Weaver Weavings",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/61.png"
+			}
+		},
+		{
+			"name": "Work Till Death",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/62.png"
+			}
+		},
+		{
+			"name": "Swift Step",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/63.png"
+			}
+		},
+		{
+			"name": "Pharloom's Wilds",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/64.png"
+			}
+		},
+		{
+			"name": "Flapping Fertid",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/65.png"
+			}
+		},
+		{
+			"name": "Cogworks underfly",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Insect",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/66.png"
+			}
+		},
+		{
+			"name": "Disgraced Cuisine",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/67.png"
+			}
+		},
+		{
+			"name": "Memory Crystal",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/68.png"
+			}
+		},
+		{
+			"name": "Courageous Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/69.png"
+			}
+		},
+		{
+			"name": "High Halls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/70.png"
+			}
+		},
+		{
+			"name": "Choral Chambers",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/71.png"
+			}
+		},
+		{
+			"name": "Bilewater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/72.png"
+			}
+		},
+		{
+			"name": "Underworks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/73.png"
+			}
+		},
+		{
+			"name": "Whiteward",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/74.png"
+			}
+		},
+		{
+			"name": "Coral Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/75.png"
+			}
+		},
+		{
+			"name": "Putrified Ducts",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/76.png"
+			}
+		},
+		{
+			"name": "Verdania",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/77.png"
+			}
+		},
+		{
+			"name": "Whispering Vaults",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/78.png"
+			}
+		},
+		{
+			"name": "Far Fields",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/79.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(6)]
+	8 Choir Duo
+	8 Choir Elder
+	8 Drapelord
+	8 Ductsucker
+	8 HUGE Flea
+	8 Lumbering Lavalarga
+	8 Massive Mossgrub
+	8 Mitemother
+	8 Moss Grub
+	8 Rambunctious Fleas
+	8 Savage Muckroach
+	8 Smelt Shoveler
+	8 Grovelling Wanderer
+	8 Pharloom Guide
+	8 Winged Bellbearer
+	8 Pond Skipper
+	8 Citadel Vents
+	8 Defiant Will
+	8 Dreg Catcher
+	8 Infested
+	8 Plunge Into Void
+	8 Cogworker
+	8 Boiling Work
+	8 Fluttering Phacia
+	8 Hardbone Shell
+	8 Bug Charge
+	8 Elusive Cloverstag
+	8 Snitch Pick
+	8 Bell Throw
+	8 Winged Vantage
+	8 Precise Driznid
+	8 Patrolling Guardfly
+	8 Skull Scuttler
+	8 Cathartic Reunion
+	8 Underworks Underpoke
+	8 Splinterbark
+	8 Grind Down
+	8 Servitor Ignim
+	8 Cogfly Workshop
+	8 Bone Compass
+	8 Bench
+	8 Overgrown Pilgrim
+	8 Carefree Yumas
+	8 Unravelling Dreghusk
+	8 Mire Mite
+	8 Servitor Doran
+	8 Lofty Underloft
+	8 Barnak Snare
+	8 The Pilgrim's Way
+	8 Weaver Memories
+	8 Judged
+	8 Giant Drapemite
+	8 Unfortunate Report
+	8 Cogwork Hauler
+	8 Pilgrim Shawl
+	8 Pilgrim Bellbearer
+	8 Thieving Craw
+	8 Drifting Driftlin
+	8 Choir Envoy
+	8 Hardbone Hopper
+	8 Scurrying Skarrlid
+	8 Weaver Weavings
+	8 Work Till Death
+	8 Swift Step
+	8 Pharloom's Wilds
+	8 Flapping Fertid
+	8 Cogworks underfly
+	8 Disgraced Cuisine
+	8 Memory Crystal
+	8 Courageous Charge
+	8 High Halls
+	8 Choral Chambers
+	8 Bilewater
+	8 Underworks
+	8 Whiteward
+	8 Coral Tower
+	8 Putrified Ducts
+	8 Verdania
+	8 Whispering Vaults
+	8 Far Fields
+[common | masterpiece(1)]
+	8 Choir Duo
+	8 Choir Elder
+	8 Drapelord
+	8 Ductsucker
+	8 HUGE Flea
+	8 Lumbering Lavalarga
+	8 Massive Mossgrub
+	8 Mitemother
+	8 Moss Grub
+	8 Rambunctious Fleas
+	8 Savage Muckroach
+	8 Smelt Shoveler
+	8 Grovelling Wanderer
+	8 Pharloom Guide
+	8 Winged Bellbearer
+	8 Pond Skipper
+	8 Citadel Vents
+	8 Defiant Will
+	8 Dreg Catcher
+	8 Infested
+	8 Plunge Into Void
+	8 Cogworker
+	8 Boiling Work
+	8 Fluttering Phacia
+	8 Hardbone Shell
+	8 Bug Charge
+	8 Elusive Cloverstag
+	8 Snitch Pick
+	8 Bell Throw
+	8 Winged Vantage
+	8 Precise Driznid
+	8 Patrolling Guardfly
+	8 Skull Scuttler
+	8 Cathartic Reunion
+	8 Underworks Underpoke
+	8 Splinterbark
+	8 Grind Down
+	8 Servitor Ignim
+	8 Cogfly Workshop
+	8 Bone Compass
+	8 Bench
+	8 Overgrown Pilgrim
+	8 Carefree Yumas
+	8 Unravelling Dreghusk
+	8 Mire Mite
+	8 Servitor Doran
+	8 Lofty Underloft
+	8 Barnak Snare
+	8 The Pilgrim's Way
+	8 Weaver Memories
+	8 Judged
+	8 Giant Drapemite
+	8 Unfortunate Report
+	8 Cogwork Hauler
+	8 Pilgrim Shawl
+	8 Pilgrim Bellbearer
+	8 Thieving Craw
+	8 Drifting Driftlin
+	8 Choir Envoy
+	8 Hardbone Hopper
+	8 Scurrying Skarrlid
+	8 Weaver Weavings
+	8 Work Till Death
+	8 Swift Step
+	8 Pharloom's Wilds
+	8 Flapping Fertid
+	8 Cogworks underfly
+	8 Disgraced Cuisine
+	8 Memory Crystal
+	8 Courageous Charge
+	8 High Halls
+	8 Choral Chambers
+	8 Bilewater
+	8 Underworks
+	8 Whiteward
+	8 Coral Tower
+	8 Putrified Ducts
+	8 Verdania
+	8 Whispering Vaults
+	8 Far Fields
+[foil(1)]
+	12 Choir Duo
+	12 Choir Elder
+	12 Drapelord
+	12 Ductsucker
+	12 HUGE Flea
+	12 Lumbering Lavalarga
+	12 Massive Mossgrub
+	12 Mitemother
+	12 Moss Grub
+	12 Rambunctious Fleas
+	12 Savage Muckroach
+	12 Smelt Shoveler
+	12 Grovelling Wanderer
+	12 Pharloom Guide
+	12 Winged Bellbearer
+	12 Pond Skipper
+	12 Citadel Vents
+	12 Defiant Will
+	12 Dreg Catcher
+	12 Infested
+	12 Plunge Into Void
+	12 Cogworker
+	12 Boiling Work
+	12 Fluttering Phacia
+	12 Hardbone Shell
+	12 Bug Charge
+	12 Elusive Cloverstag
+	12 Snitch Pick
+	12 Bell Throw
+	12 Winged Vantage
+	12 Precise Driznid
+	12 Patrolling Guardfly
+	12 Skull Scuttler
+	12 Cathartic Reunion
+	12 Underworks Underpoke
+	12 Splinterbark
+	12 Grind Down
+	12 Servitor Ignim
+	12 Cogfly Workshop
+	12 Bone Compass
+	12 Bench
+	12 Overgrown Pilgrim
+	12 Carefree Yumas
+	12 Unravelling Dreghusk
+	12 Mire Mite
+	12 Servitor Doran
+	12 Lofty Underloft
+	12 Barnak Snare
+	12 The Pilgrim's Way
+	12 Weaver Memories
+	12 Judged
+	12 Giant Drapemite
+	12 Unfortunate Report
+	12 Cogwork Hauler
+	12 Pilgrim Shawl
+	12 Pilgrim Bellbearer
+	12 Thieving Craw
+	12 Drifting Driftlin
+	12 Choir Envoy
+	12 Hardbone Hopper
+	12 Scurrying Skarrlid
+	12 Weaver Weavings
+	12 Work Till Death
+	12 Swift Step
+	12 Pharloom's Wilds
+	12 Flapping Fertid
+	12 Cogworks underfly
+	12 Disgraced Cuisine
+	12 Memory Crystal
+	12 Courageous Charge
+	12 High Halls
+	12 Choral Chambers
+	12 Bilewater
+	12 Underworks
+	12 Whiteward
+	12 Coral Tower
+	12 Putrified Ducts
+	12 Verdania
+	12 Whispering Vaults
+	12 Far Fields
+[wildcard(1)]
+	6 Choir Duo
+	6 Choir Elder
+	6 Drapelord
+	6 Ductsucker
+	6 HUGE Flea
+	6 Lumbering Lavalarga
+	6 Massive Mossgrub
+	6 Mitemother
+	6 Moss Grub
+	6 Rambunctious Fleas
+	6 Savage Muckroach
+	6 Smelt Shoveler
+	6 Grovelling Wanderer
+	6 Pharloom Guide
+	6 Winged Bellbearer
+	6 Pond Skipper
+	6 Citadel Vents
+	6 Defiant Will
+	6 Dreg Catcher
+	6 Infested
+	6 Plunge Into Void
+	6 Cogworker
+	6 Boiling Work
+	6 Fluttering Phacia
+	6 Hardbone Shell
+	6 Bug Charge
+	6 Elusive Cloverstag
+	6 Snitch Pick
+	6 Bell Throw
+	6 Winged Vantage
+	6 Precise Driznid
+	6 Patrolling Guardfly
+	6 Skull Scuttler
+	6 Cathartic Reunion
+	6 Underworks Underpoke
+	6 Splinterbark
+	6 Grind Down
+	6 Servitor Ignim
+	6 Cogfly Workshop
+	6 Bone Compass
+	6 Bench
+	6 Overgrown Pilgrim
+	6 Carefree Yumas
+	6 Unravelling Dreghusk
+	6 Mire Mite
+	6 Servitor Doran
+	6 Lofty Underloft
+	6 Barnak Snare
+	6 The Pilgrim's Way
+	6 Weaver Memories
+	6 Judged
+	6 Giant Drapemite
+	6 Unfortunate Report
+	6 Cogwork Hauler
+	6 Pilgrim Shawl
+	6 Pilgrim Bellbearer
+	6 Thieving Craw
+	6 Drifting Driftlin
+	6 Choir Envoy
+	6 Hardbone Hopper
+	6 Scurrying Skarrlid
+	6 Weaver Weavings
+	6 Work Till Death
+	6 Swift Step
+	6 Pharloom's Wilds
+	6 Flapping Fertid
+	6 Cogworks underfly
+	6 Disgraced Cuisine
+	6 Memory Crystal
+	6 Courageous Charge
+	6 High Halls
+	6 Choral Chambers
+	6 Bilewater
+	6 Underworks
+	6 Whiteward
+	6 Coral Tower
+	6 Putrified Ducts
+	6 Verdania
+	6 Whispering Vaults
+	6 Far Fields

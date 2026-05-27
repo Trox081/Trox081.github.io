@@ -614,5 +614,115 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "High Halls",
+        "number": 75,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Whispering Vaults",
+        "number": 79,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Underworks",
+        "number": 77,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Far Fields",
+        "number": 74,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Verdania",
+        "number": 78,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Whiteward",
+        "number": 80,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Coral Tower",
+        "number": 73,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Bilewater",
+        "number": 71,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Choral Chambers",
+        "number": 72,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Putrified Ducts",
+        "number": 76,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
     }
 ]
