@@ -598,24 +598,24 @@
     },
     "a->gold",
     {
-        "card_name": "Drifting Driftlin",
+        "card_name": "Cogfly Maestro",
+        "number": 75,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "The Crawfather",
         "number": 76,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
-        "position": "57"
-    },
-    {
-        "card_name": "Thieving Craw",
-        "number": 83,
-        "shape": "normal",
-        "set": "HKS",
-        "rotated": false,
-        "position": "56"
+        "position": "100"
     },
     {
         "card_name": "Lofty Underloft",
-        "number": 78,
+        "number": 83,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -631,24 +631,34 @@
     },
     {
         "card_name": "Overgrown Pilgrim",
-        "number": 80,
+        "number": 85,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
         "position": "41"
     },
     {
-        "card_name": "e"
+        "card_name": "Drifting Driftlin",
+        "number": 81,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "57"
     },
     {
-        "card_name": "e"
+        "card_name": "Lamp Bearer",
+        "number": 78,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "103"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Father of The Flame",
-        "number": 74,
+        "number": 77,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -661,14 +671,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Thieving Craw",
+        "number": 88,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "56"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Scurrying Skarrlid",
-        "number": 81,
+        "number": 86,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -694,7 +709,7 @@
     },
     {
         "card_name": "Unravelling Dreghusk",
-        "number": 84,
+        "number": 89,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -702,15 +717,45 @@
     },
     {
         "card_name": "Servitor Doran",
-        "number": 82,
+        "number": 87,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
         "position": "45"
     },
     {
+        "card_name": "Nimble Stiltkin",
+        "number": 79,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Choir Choristor",
+        "number": 74,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Mire Mite",
+        "number": 84,
+        "shape": "normal",
+        "set": "HKS",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Hardbone Hopper",
-        "number": 77,
+        "number": 82,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -718,19 +763,14 @@
     },
     {
         "card_name": "Choir Envoy",
-        "number": 75,
+        "number": 80,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
         "position": "58"
     },
     {
-        "card_name": "Mire Mite",
-        "number": 79,
-        "shape": "normal",
-        "set": "HKS",
-        "rotated": false,
-        "position": "44"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -747,7 +787,7 @@
     "a->colorless",
     {
         "card_name": "Weavelight",
-        "number": 90,
+        "number": 95,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -755,7 +795,7 @@
     },
     {
         "card_name": "Bench",
-        "number": 85,
+        "number": 90,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -763,7 +803,7 @@
     },
     {
         "card_name": "Bone Compass",
-        "number": 86,
+        "number": 91,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -771,7 +811,7 @@
     },
     {
         "card_name": "Cogfly Workshop",
-        "number": 87,
+        "number": 92,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -779,7 +819,7 @@
     },
     {
         "card_name": "Servitor Ignim",
-        "number": 88,
+        "number": 93,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -787,7 +827,7 @@
     },
     {
         "card_name": "Snitch Pick",
-        "number": 89,
+        "number": 94,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -822,7 +862,7 @@
     },
     {
         "card_name": "High Halls",
-        "number": 95,
+        "number": 100,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -830,7 +870,7 @@
     },
     {
         "card_name": "Whispering Vaults",
-        "number": 99,
+        "number": 104,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -838,7 +878,7 @@
     },
     {
         "card_name": "Underworks",
-        "number": 97,
+        "number": 102,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -846,7 +886,7 @@
     },
     {
         "card_name": "Far Fields",
-        "number": 94,
+        "number": 99,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -854,7 +894,7 @@
     },
     {
         "card_name": "Verdania",
-        "number": 98,
+        "number": 103,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -877,7 +917,7 @@
     },
     {
         "card_name": "Whiteward",
-        "number": 100,
+        "number": 105,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -885,7 +925,7 @@
     },
     {
         "card_name": "Coral Tower",
-        "number": 93,
+        "number": 98,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -893,7 +933,7 @@
     },
     {
         "card_name": "Bilewater",
-        "number": 91,
+        "number": 96,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -901,7 +941,7 @@
     },
     {
         "card_name": "Choral Chambers",
-        "number": 92,
+        "number": 97,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,
@@ -909,7 +949,7 @@
     },
     {
         "card_name": "Putrified Ducts",
-        "number": 96,
+        "number": 101,
         "shape": "normal",
         "set": "HKS",
         "rotated": false,

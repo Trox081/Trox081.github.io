@@ -1,4 +1,40 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+The Crawfather added.
+Cogfly Maestro added.
+Choir Choristor added.
+Lamp Bearer added.
+Nimble Stiltkin added.
+
+
+Burning Bug
+rules_text: {T}: Add {R}{G}, this mana can't be spent to cast a creature spell.
+{3}, exile this card from your graveyard: Add three mana in any combination of colors => {T}: Add {R}{G}, this mana can't be spent to cast a creature spell.
+When this creature dies, it deals 2 damage to each opponent.
+
+Father of The Flame
+rules_text: Whenever you cast a spell with mana value 4 or greater, choose one —
+• Put three +1/+1 counters on target creature you control.
+• Create a 6/1 red Insect Spirit creature token with trample and Haste, sacrifice it at the beginning of the next end step. => Whenever you cast a spell with mana value 4 or greater, choose one —
+• Put three +1/+1 counters on target creature you control.
+• Create a 6/1 red Insect Spirit creature token with trample, haste and “At the beginning of your end step, sacrifice this creature.”
+
+Moorwing, Greymoor Beast
+rules_text: Flying, menace
+Whenever one or more insects you control deals combat damage to a player, return target Insect creature card from your graveyard to the battlefield tapped. => Flying, menace
+Whenever one or more Insects you control deals combat damage to a player, return target Insect creature card from your graveyard to the battlefield tapped.
+
+Protective Moss Mother
+rules_text: Flying
+When this creature enters, create four 1/1 green insect creature tokens with flying. => Flying
+When this creature enters, create four 1/1 green Insect creature tokens with flying.
+
+The Forge Daughter
+pt: 3/3 => 4/4
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Meekish Bellbearer added.

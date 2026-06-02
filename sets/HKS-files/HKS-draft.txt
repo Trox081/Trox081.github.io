@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "89",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/27.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Servo",
-			"collector_number": "88",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "87",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "86",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "85",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G/W}",
 			"type": "Creature — Insect Pilgrim",
-			"collector_number": "80",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/41.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W/B}",
 			"type": "Creature — Insect Zombie",
-			"collector_number": "84",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G/U}",
 			"type": "Creature — Insect",
-			"collector_number": "79",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U/R}",
 			"type": "Artifact Creature — Servo",
-			"collector_number": "82",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B/R}",
 			"type": "Creature — Insect",
-			"collector_number": "78",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/46.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}",
 			"type": "Creature — Insect Advisor",
-			"collector_number": "83",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Creature — Insect",
-			"collector_number": "76",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/57.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}",
 			"type": "Creature — Insect Citizen",
-			"collector_number": "75",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B/G}",
 			"type": "Creature — Insect",
-			"collector_number": "77",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Creature — Insect",
-			"collector_number": "81",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/60.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "95",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/70.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "92",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/71.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "91",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/72.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "97",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "100",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/74.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "93",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/75.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "96",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/76.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "98",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/77.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "99",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/78.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "94",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/79.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Insect Spirit",
-			"collector_number": "74",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/92.png"
 			}
@@ -995,9 +995,59 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "90",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/99.png"
+			}
+		},
+		{
+			"name": "The Crawfather",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Insect Advisor",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/100.png"
+			}
+		},
+		{
+			"name": "Cogfly Maestro",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Creature — Insect Noble",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/101.png"
+			}
+		},
+		{
+			"name": "Choir Choristor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/102.png"
+			}
+		},
+		{
+			"name": "Lamp Bearer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Insect Advisor",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/103.png"
+			}
+		},
+		{
+			"name": "Nimble Stiltkin",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/104.png"
 			}
 		}
 	]
@@ -1014,6 +1064,11 @@
 	4 The Forge Daughter
 	4 Thirst For Purpose
 	4 Weavelight
+	4 The Crawfather
+	4 Cogfly Maestro
+	4 Choir Choristor
+	4 Lamp Bearer
+	4 Nimble Stiltkin
 [common(6)]
 	8 Choir Duo
 	8 Choir Elder
@@ -1297,6 +1352,11 @@
 	6 The Forge Daughter
 	6 Thirst For Purpose
 	6 Weavelight
+	6 The Crawfather
+	6 Cogfly Maestro
+	6 Choir Choristor
+	6 Lamp Bearer
+	6 Nimble Stiltkin
 [wildcard(1)]
 	6 Choir Duo
 	6 Choir Elder
@@ -1398,3 +1458,8 @@
 	15 The Forge Daughter
 	15 Thirst For Purpose
 	15 Weavelight
+	15 The Crawfather
+	15 Cogfly Maestro
+	15 Choir Choristor
+	15 Lamp Bearer
+	15 Nimble Stiltkin
