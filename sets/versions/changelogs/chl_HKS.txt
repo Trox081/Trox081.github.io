@@ -1,4 +1,103 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Meekish Bellbearer added.
+Pilgrimage added.
+Pilgrim Pouncer added.
+Captured added.
+Mnemonid added.
+Flintstone Flyer added.
+Smelted Flint added.
+Roach Feeder added.
+Mite Trap added.
+Bellevator added.
+Splittering Splinterhorn added.
+Burning Bug added.
+Cogwork Crawler added.
+Father of The Flame added.
+Moorwing, Greymoor Beast added.
+Protective Moss Mother added.
+Skaar Scour added.
+Strung To Serve added.
+The Forge Daughter added.
+Thirst For Purpose added.
+Weavelight added.
+
+Pilgrim Bellbearer removed.
+
+Defiant Will
+
+Precise Driznid
+rules_text: Resourceful [i](You may cast this spell anytime you could cast an instant by sacrificing an artifact in addition to paying its other costs)[/i].
+Flying
+When this creature enters, tap target creature an opponent controls and put a stun counter on it. => Flying
+When this creature enters you may sacrifice an artifact, if you do, tap target creature, then put two stun counters on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+The Pilgrim's Way
+cost: {1}{R} => {3}{R}
+rules_text: Stoke [i](As an additional cost to cast this spell, you may sacrifice an artifact, if you do, copy this spell.)[/i]
+Creatures you control get +1/+0 until end of turn.
+Exile the top card of your library, you may play it until your next end step. => Stoke 2 [i](You may sacrifice an artifact as you cast this spell if you do it costs {2} less to cast.)[/i]
+Creatures you control get +2/+0 until end of turn.
+Exile the top two cards of your library, you may play it until your next end step.
+
+Work Till Death
+
+Flapping Fertid
+rules_text: At the beginning of your end step, if you've cast a noncreature spell, you gain 2 life. => At the beginning of your end step, if you've cast a noncreature spell this turn, you gain 2 life.
+
+High Halls
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {W} or {U}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {W} or {U}.
+
+Choral Chambers
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {R} or {W}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {R} or {W}.
+
+Bilewater
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {B} or {G}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {B} or {G}.
+
+Underworks
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {B} or {R}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {B} or {R}.
+
+Whiteward
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {W} or {B}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {W} or {B}.
+
+Coral Tower
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {U} or {R}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {U} or {R}.
+
+Putrified Ducts
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {G} or {U}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {G} or {U}.
+
+Verdania
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {G} or {W}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {G} or {W}.
+
+Whispering Vaults
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {U} or {B}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {U} or {B}.
+
+Far Fields
+rules_text: [i]Metalcraft[/i] — This land enters tapped unless you control three or more artifacts.
+{T}: Add {R} or {G}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {R} or {G}.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 High Halls added.
