@@ -81,7 +81,7 @@
 			}
 		},
 		{
-			"name": "Moss Grub",
+			"name": "Mossgrub",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
@@ -853,7 +853,7 @@
 		{
 			"name": "Smelted Flint",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Artifact",
 			"collector_number": "56",
 			"image_uris": {
@@ -943,7 +943,7 @@
 		{
 			"name": "Protective Moss Mother",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Insect",
 			"collector_number": "69",
 			"image_uris": {
@@ -951,7 +951,7 @@
 			}
 		},
 		{
-			"name": "Skaar Scour",
+			"name": "Skarr Scout",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Insect Scout",
@@ -1049,6 +1049,76 @@
 			"image_uris": {
 				"en": "https://Trox081.github.io/sets/HKS-files/img/104.png"
 			}
+		},
+		{
+			"name": "Bell",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact — Bell",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/105.png"
+			}
+		},
+		{
+			"name": "Insect Pilgrim",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Insect Pilgrim",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/106.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Insect",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/107.png"
+			}
+		},
+		{
+			"name": "Cogfly",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Creature — Insect Token",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/108.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact — Treasure",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/109.png"
+			}
+		},
+		{
+			"name": "Insect Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Insect Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/110.png"
+			}
+		},
+		{
+			"name": "Map",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact — Map",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Trox081.github.io/sets/HKS-files/img/111.png"
+			}
 		}
 	]
 
@@ -1059,7 +1129,7 @@
 	4 Father of The Flame
 	4 Moorwing, Greymoor Beast
 	4 Protective Moss Mother
-	4 Skaar Scour
+	4 Skarr Scout
 	4 Strung To Serve
 	4 The Forge Daughter
 	4 Thirst For Purpose
@@ -1078,7 +1148,7 @@
 	8 Lumbering Lavalarga
 	8 Massive Mossgrub
 	8 Mitemother
-	8 Moss Grub
+	8 Mossgrub
 	8 Rambunctious Fleas
 	8 Savage Muckroach
 	8 Smelt Shoveler
@@ -1169,7 +1239,7 @@
 	8 Lumbering Lavalarga
 	8 Massive Mossgrub
 	8 Mitemother
-	8 Moss Grub
+	8 Mossgrub
 	8 Rambunctious Fleas
 	8 Savage Muckroach
 	8 Smelt Shoveler
@@ -1260,7 +1330,7 @@
 	12 Lumbering Lavalarga
 	12 Massive Mossgrub
 	12 Mitemother
-	12 Moss Grub
+	12 Mossgrub
 	12 Rambunctious Fleas
 	12 Savage Muckroach
 	12 Smelt Shoveler
@@ -1347,7 +1417,7 @@
 	6 Father of The Flame
 	6 Moorwing, Greymoor Beast
 	6 Protective Moss Mother
-	6 Skaar Scour
+	6 Skarr Scout
 	6 Strung To Serve
 	6 The Forge Daughter
 	6 Thirst For Purpose
@@ -1366,7 +1436,7 @@
 	6 Lumbering Lavalarga
 	6 Massive Mossgrub
 	6 Mitemother
-	6 Moss Grub
+	6 Mossgrub
 	6 Rambunctious Fleas
 	6 Savage Muckroach
 	6 Smelt Shoveler
@@ -1453,7 +1523,7 @@
 	15 Father of The Flame
 	15 Moorwing, Greymoor Beast
 	15 Protective Moss Mother
-	15 Skaar Scour
+	15 Skarr Scout
 	15 Strung To Serve
 	15 The Forge Daughter
 	15 Thirst For Purpose

@@ -5,7 +5,7 @@
 			<name>HKS</name>
 			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-02</releasedate>
+			<releasedate>2026-06-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -78,7 +78,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -140,7 +140,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 		</card>
 		<card>
 			<name>Mitemother</name>
-			<text>When this creature enters, create two 1/1 black and green Insect creature tokens.
+			<text>When this creature enters, create two 1/1 black and green Insect creature tokens with flying.
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/7.png" num="36">HKS</set>
 			<prop>
@@ -157,8 +157,8 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Moss Grub</name>
-			<text>When this creature enters, mill three cards, If an Insect card is milled this way, you gain three life.</text>
+			<name>Mossgrub</name>
+			<text>When this creature enters, mill three cards, If an Insect card is milled this way, you gain two life.</text>
 			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/8.png" num="67">HKS</set>
 			<prop>
 				<layout>normal</layout>
@@ -169,13 +169,13 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Rambunctious Fleas</name>
-			<text>Whenever a Flea you control enters, put a +1/+1 counter on another target Insect you control.
+			<text>Whenever this creature or another Flea you control enters, put a +1/+1 counter on another target Insect you control.
 A deck can have any number of cards named Rambunctious Fleas.</text>
 			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/9.png" num="70">HKS</set>
 			<prop>
@@ -229,7 +229,7 @@ A deck can have any number of cards named Rambunctious Fleas.</text>
 		</card>
 		<card>
 			<name>Grovelling Wanderer</name>
-			<text>{1}{W} or sacrifice an artifact, {T}: Put a +1/+1 counter on target creature you control.</text>
+			<text>{T}, {1}{W} or sacrifice an artifact: Put a +1/+1 counter on target creature you control.</text>
 			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/12.png" num="6">HKS</set>
 			<prop>
 				<layout>normal</layout>
@@ -844,7 +844,7 @@ Enchanted creature has &quot;At the beginning of your upkeep, tap this creature 
 			<name>The Pilgrim&apos;s Way</name>
 			<text>Stoke 2 (You may sacrifice an artifact as you cast this spell if you do it costs {2} less to cast.)
 Creatures you control get +2/+0 until end of turn.
-Exile the top two cards of your library, you may play it until your next end step.</text>
+Exile the top two cards of your library, you may play those cards until the end of your next turn.</text>
 			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/48.png" num="53">HKS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1480,8 +1480,8 @@ Whenever this creature attacks, you may sacrifice an artifact, if you do, this c
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -1631,23 +1631,23 @@ Whenever one or more Insects you control deals combat damage to a player, return
 		<card>
 			<name>Protective Moss Mother</name>
 			<text>Flying
-When this creature enters, create four 1/1 green Insect creature tokens with flying.</text>
+When this creature enters, create four 1/1 black and green Insect creature tokens with flying.</text>
 			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/94.png" num="69">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Insect</type>
 				<maintype>Creature</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Skaar Scour</name>
+			<name>Skarr Scout</name>
 			<text>First strike
 Whenever this creature attacks, if you&apos;ve cast a noncreature spell this turn, exile the top card of your library. You may play that card until the end of your next turn.</text>
 			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/95.png" num="54">HKS</set>
@@ -1823,6 +1823,122 @@ Whenever this creature deals combat damage to an opponent, you mill three cards.
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bell HKS</name>
+			<text></text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/105.png" num="5">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Bell</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect Pilgrim HKS</name>
+			<text></text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/106.png" num="1">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Pilgrim</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect HKS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/107.png" num="4">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cogfly HKS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/108.png" num="2">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Token</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure HKS</name>
+			<text>{T}, Sacrifice this artifact, add one mana of any color.</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/109.png" num="7">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect Spirit HKS</name>
+			<text>Trample, Haste
+At the beginning of your upkeep, sacrifice this creature</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/110.png" num="3">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Map HKS</name>
+			<text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/111.png" num="6">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Map</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

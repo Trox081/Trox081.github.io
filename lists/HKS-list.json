@@ -64,7 +64,7 @@
         "position": "67"
     },
     {
-        "card_name": "Skaar Scour",
+        "card_name": "Skarr Scout",
         "number": 54,
         "shape": "normal",
         "set": "HKS",
@@ -392,7 +392,7 @@
         "position": "5"
     },
     {
-        "card_name": "Moss Grub",
+        "card_name": "Mossgrub",
         "number": 67,
         "shape": "normal",
         "set": "HKS",
@@ -954,6 +954,84 @@
         "set": "HKS",
         "rotated": false,
         "position": "76"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Bell",
+        "number": 5,
+        "shape": "token",
+        "set": "HKS",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Map",
+        "number": 6,
+        "shape": "token",
+        "set": "HKS",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 7,
+        "shape": "token",
+        "set": "HKS",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Insect Pilgrim",
+        "number": 1,
+        "shape": "token",
+        "set": "HKS",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Cogfly",
+        "number": 2,
+        "shape": "token",
+        "set": "HKS",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Insect Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "HKS",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Insect",
+        "number": 4,
+        "shape": "token",
+        "set": "HKS",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
