@@ -2227,7 +2227,7 @@
             "shape": "token",
             "set": "HKS",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ari Gibson",
             "alias": "",
             "position": "105",
             "rotated": false,
@@ -2360,5 +2360,5 @@
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }
