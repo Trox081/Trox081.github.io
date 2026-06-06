@@ -1,4 +1,247 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Collective Yumama added.
+Sleepy Undersweep added.
+Karaka Warrior added.
+Darting Verdanir added.
+Dregwheel added.
+Jellyfish added.
+Choir Sermon added.
+Silken Surgery added.
+Scrollreading added.
+Flintslate added.
+Bilewater Traps added.
+Hunter Instincts added.
+
+
+Smelt Shoveler
+rules_text: When this creature enters, create a Bell token. [i](Its a colorless artifact.)[/i]
+{T}, Sacrifice an artifact: This creature deals 1 damage to any target. => When this creature enters, create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+{T}, Sacrifice an artifact: This creature deals 1 damage to any target.
+
+Winged Bellbearer
+rules_text: Flying
+When this creature enters, if you control an artifact, draw a card. Otherwise, create two Bell tokens. [i](They are colorless artifacts)[/i]. => Flying
+When this creature enters, if you control an artifact, draw a card. Otherwise, create two Bell tokens. [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Citadel Vents
+rules_text: Return target creature to its owner's hand. If you controlled that creature, create a Bell token. [i](Its a colorless artifact)[/i]. => Return target creature to its owner's hand. If you controlled that creature, create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Defiant Will
+rules_text: Counter target spell. Create two Bell tokens. [i](They are colorless artifacts)[/i]. => Counter target spell. Create two Bell tokens. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Boiling Work
+rules_text: Boiling Work deals 3 damage to target creature. Create a Bell token. [i](Its a colorless artifact)[/i]. => Boiling Work deals 3 damage to target creature. Create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Fluttering Phacia
+rules_text: {2}, Sacrifice this creature: Choose one— 
+• Exile target artifact.
+• Create a Bell token, you gain 3 life. [i](Its a colorless artifact)[/i]. => {2}, Sacrifice this creature: Choose one— 
+• Exile target artifact.
+• You gain 3 life. Create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Winged Vantage
+rules_text: Until end of turn, target creature gets +2/+2 and gains flying.
+Create a Bell token [i](Its a colorless artifact)[/i]. => Until end of turn, target creature gets +2/+2 and gains flying.
+Create a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Unravelling Dreghusk
+
+Servitor Doran
+rules_text: When this creature enters, you may sacrifice an artifact, if you do, return target instant or sorcery card from your graveyard to your hand. Otherwise, create a Bell token. [i](Its a colorless artifact)[/i]. => When this creature enters, you may sacrifice an artifact, if you do, return target instant or sorcery card from your graveyard to your hand. Otherwise, create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Lofty Underloft
+type: Creature — Insect => Creature — Insect Citizen
+
+Weaver Memories
+rules_text: Draw a card, then discard a card.
+Create a Bell token. [i](Its a colorless artifact)[/i].
+Flashback {1}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Draw a card, then discard a card.
+Create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+Flashback {1}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Judged
+rules_text: Enchant Creature
+When this Aura enters, each player creates a Bell token [i](It's a colorless artifact)[/i]
+Enchanted creature can't attack or block and has 
+“At the beginning of your upkeep, sacrifice this creature unless you sacrifice an artifact.” => Enchant Creature
+When this Aura enters, each player creates a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+Enchanted creature can't attack or block and has 
+“At the beginning of your upkeep, sacrifice this creature unless you sacrifice an artifact.”
+
+Meekish Bellbearer
+rules_text: {4}{W}: Create a 1/1 white Insect Pilgrim creature token and a Bell token [i](Its a artifact)[/i]. => {4}{W}: Create a 1/1 white Insect Pilgrim creature token and a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Thieving Craw
+rules_text: Flying
+Whenever this creature deals combat damage to an opponent, mill 2 cards, then create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Flying
+Whenever this creature deals combat damage to an opponent, mill two cards, then create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Drifting Driftlin
+rules_text: Flying
+When this creature enters, scry 2, then create a Bell token [i](Its a colorless artifact)[/i]. => Flying
+When this creature enters, scry 2, then create a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Hardbone Hopper
+rules_text: When this creature enters,if you control another Insect, put a +1/+1 counter on this creature and another target creature you control. => When this creature enters, you may mill two cards, then return a creature card from your graveyard to your hand.
+
+Swift Step
+rules_text: Until end of turn, target creature gets +1/+0 and gains first strike.
+Create a Bell token [i](its a colorless artifact)[/i] => Until end of turn, target creature gets +1/+0 and gains first strike.
+Create a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Pharloom's Wilds
+rules_text: Search your library for up to two basic land cards, reveal them, put them onto the battlefield tapped, then shuffle.
+Create two Bell tokens [i](They are colorless artifacts)[/i]. => Search your library for up to two basic land cards, reveal them, put them onto the battlefield tapped, then shuffle.
+Create two Bell tokens [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn.”)[/i]
+
+High Halls
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {W} or {U}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {W} or {U}.
+
+Choral Chambers
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {R} or {W}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {R} or {W}.
+
+Bilewater
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {B} or {G}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {B} or {G}.
+
+Underworks
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {B} or {R}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {B} or {R}.
+
+Whiteward
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {W} or {B}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {W} or {B}.
+
+Coral Tower
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {U} or {R}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {U} or {R}.
+
+Putrified Ducts
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {G} or {U}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {G} or {U}.
+
+Verdania
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {G} or {W}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {G} or {W}.
+
+Whispering Vaults
+rules_text: [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
+{T}: Add {U} or {B}. => [i]Metalcraft[/i] [i]Threshold[/i] — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
+{T}: Add {U} or {B}.
+
+Captured
+rules_text: Counter target spell unless its controller pays {2} or sacrifices an artifact.
+Create a Bell token [i](Its a colorless artifact)[/i]. => Counter target spell unless its controller pays {2} or sacrifices an artifact.
+Create a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Splittering Splinterhorn
+cost: {G} => {G}{G}
+rules_text: Trample
+Whenever you expend 4, put a +1/+1 counter on this creature. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i] => {T}: Add {G}.
+Whenever you expend 4, put a +1/+1 counter on target creature. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i]
+pt: 1/1 => 0/2
+
+Burning Bug
+rules_text: {T}: Add {R}{G}, this mana can't be spent to cast a creature spell.
+When this creature dies, it deals 2 damage to each opponent. => {T}: Add {R}{G}.This mana can't be spent to cast a creature spell.
+When this creature dies, it deals 2 damage to each opponent.
+
+Father of The Flame
+
+Moorwing, Greymoor Beast
+rules_text: Flying, menace
+Whenever one or more Insects you control deals combat damage to a player, return target Insect creature card from your graveyard to the battlefield tapped. => Flying, menace
+Whenever one or more Insects you control deal combat damage to an opponent, return target Insect creature card from your graveyard to the battlefield tapped.
+
+The Forge Daughter
+rules_text: When The Forge Daughter enters, create a Bell token. [i](Its a colorless artifact.)[/i]
+{2}{R}, sacrifice an artifact: Search your library for an artifact card, put that card into your hand, then shuffle. => When The Forge Daughter enters, create two Bell tokens. [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+{2}{R}, sacrifice an artifact: Search your library for an artifact card, put that card into your hand, then shuffle.
+
+The Crawfather
+cost: {2}{U}{B} => {1}{U}{B}
+pt: 3/4 => 2/3
+
+Lamp Bearer
+rules_text: Flying
+Wen this creature enters, surveil 2.
+Whenever one or more cards leave your graveyard, draw a card. This ability triggers only once each turn. => Flying
+When this creature enters, surveil 2.
+Whenever one or more cards leave your graveyard, draw a card. This ability triggers only once each turn.
+
+Nimble Stiltkin
+pt: 2/1 => 1/1
+
+Bell
+type: Artifact — Bell => Token Artifact — Bell
+
+Insect Pilgrim
+type: Creature — Insect Pilgrim => Token Creature — Insect Pilgrim
+
+Insect
+type: Creature — Insect => Token Creature — Insect
+pt:  => 1/1
+
+Cogfly
+type: Artifact Creature — Insect Token => Token Artifact Creature — Insect
+pt:  => 1/1
+
+Treasure
+type: Artifact — Treasure => Token Artifact — Treasure
+
+Insect Spirit
+type: Creature — Insect Spirit => Token Creature — Insect Spirit
+rules_text: Trample, Haste
+At the beginning of your upkeep, sacrifice this creature => Trample, Haste
+At the beginning of your end step, sacrifice this creature
+
+Map
+type: Artifact — Map => Token Artifact — Map
+
+
+type: Creature — Insect Citizen => Artifact
+cost: {2}{W} => {W}{U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => Instant
+cost: {2}{W} => {G}{W}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => Target creature you control gets
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => Artifact
+cost: {2}{W} => {U}{R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => Instant
+cost: {2}{W} => {G}{U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => Artifact
+cost: {2}{W} => {B}{R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => When this artifact enters or is put into a graveyard from the battlefield
+pt: 2/2 => 
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
