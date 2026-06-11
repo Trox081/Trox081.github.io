@@ -1,4 +1,68 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Roachcatcher added.
+Pin Badge added.
+Druid's Eyes added.
+Conch Cutter added.
+Wreath of Purity added.
+Wraith of the Mist added.
+Swamp Squit added.
+FlintFlame Flyer added.
+Disgraced Chef Lugoli added.
+Sister Splinter added.
+Delver's Drill added.
+Zango, Plasmified Husk added.
+The Pinstress added.
+Garmond and Zaza added.
+Pinmaster Plinney added.
+Scrounge, Relic Seeker added.
+Eva, Silked Child added.
+Sprintmaster Swift added.
+Shakra, Wielding Rings added.
+
+Roach Feeder removed.
+
+Winged Bellbearer
+rules_text: Flying
+When this creature enters, if you control an artifact, draw a card. Otherwise, create two Bell tokens. [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i] => Flying
+When this creature enters, if you control an artifact, draw a card. Otherwise, create two Bell tokens. [i](They're artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Defiant Will
+rules_text: Counter target spell. Create two Bell tokens. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i] => Counter target spell. Create two Bell tokens. [i](They're artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Pharloom's Wilds
+rules_text: Search your library for up to two basic land cards, reveal them, put them onto the battlefield tapped, then shuffle.
+Create two Bell tokens [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn.”)[/i] => Search your library for up to two basic land cards, reveal them, put them onto the battlefield tapped, then shuffle.
+Create two Bell tokens [i](They're artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn.”)[/i]
+
+The Forge Daughter
+rules_text: When The Forge Daughter enters, create two Bell tokens. [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+{2}{R}, sacrifice an artifact: Search your library for an artifact card, put that card into your hand, then shuffle. => When The Forge Daughter enters, create two Bell tokens. [i](They're artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+{2}{R}, sacrifice an artifact: Search your library for an artifact card, put that card into your hand, then shuffle.
+
+Choir Choristor
+rules_text: First strike, menace
+Other creatures you control with power or toughness 2 or less have first strike and menace. => First strike, menace
+Other creatures you control with power or toughness 2 or less have menace.
+
+Collective Yumama
+rules_text: Whenever you cast a noncreature spell, choose one 
+• Put X +1/+1 counters on this creature, where X is that spell's mana value.
+• Remove X +1/+1 counters from this creature where X is that spell's mana value. Create X 1/1 blue Jellyfish creature tokens with flying. => Whenever you cast a noncreature spell, choose one —
+• Put a +1/+1 counter on this creature.
+• Remove a +1/+1 counter from this creature. If you do create a 1/1 blue Jellyfish creature token with flying.
+
+Sleepy Undersweep
+rules_text: Trample
+This spells costs {2} less to cast for each permanent you've sacrifice this turn.
+When this creature enters, create two Bell tokens [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i] => Trample
+This spells costs {2} less to cast for each permanent you've sacrifice this turn.
+When this creature enters, create two Bell tokens [i](They're artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+pt: 4/4 => 4/3
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Collective Yumama added.
