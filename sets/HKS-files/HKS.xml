@@ -5,14 +5,14 @@
 			<name>HKS</name>
 			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-11</releasedate>
+			<releasedate>2026-06-18</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Choir Duo</name>
 			<text>When this creature enters, create a 1/1 white Insect Pilgrim creature token.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/0.png" num="2">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/0.png" num="7">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@
 			<text>Flying
 When this creature enters, target creature you control gains flying until end of turn.
 Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/1.png" num="3">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/1.png" num="8">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -50,7 +50,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 			<text>Flying
 When this creature enters, mill two cards.
 {4}{B}, {T}: Insects you control get +1/+0 and gain menace until end of turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/2.png" num="38">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/2.png" num="72">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -68,7 +68,7 @@ When this creature enters, mill two cards.
 			<name>Ductsucker</name>
 			<text>Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn and can&apos;t be blocked this turn.
 Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/3.png" num="24">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/3.png" num="42">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -87,7 +87,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<text>Trample
 Affinity for Fleas (This spell costs {1} less to cast for each Flea you control.)
 Whenever this creature or another Flea enters under your control, put a +1/+1 counter on each Insect you control.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/4.png" num="75">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/4.png" num="132">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -105,7 +105,7 @@ Whenever this creature or another Flea enters under your control, put a +1/+1 co
 			<name>Lumbering Lavalarga</name>
 			<text>When this creature enters, it deals 2 damage to any target.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/5.png" num="61">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/5.png" num="107">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -124,7 +124,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 			<text>Trample
 When this creature enters you may mill five cards.
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/6.png" num="76">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/6.png" num="133">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -142,7 +142,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<name>Mitemother</name>
 			<text>When this creature enters, create two 1/1 black and green Insect creature tokens with flying.
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/7.png" num="43">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/7.png" num="78">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -159,7 +159,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 		<card>
 			<name>Mossgrub</name>
 			<text>When this creature enters, mill three cards, If an Insect card is milled this way, you gain two life.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/8.png" num="77">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/8.png" num="135">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -177,7 +177,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 			<name>Rambunctious Fleas</name>
 			<text>Whenever this creature or another Flea you control enters, put a +1/+1 counter on another target Insect you control.
 A deck can have any number of cards named Rambunctious Fleas.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/9.png" num="80">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/9.png" num="139">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -195,7 +195,7 @@ A deck can have any number of cards named Rambunctious Fleas.</text>
 			<name>Savage Muckroach</name>
 			<text>Menace
 {1}{B}, exile this creature from your graveyard: Target creature you control gets +2/+0 and menace until end of turn. Activate this only as a sorcery.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/10.png" num="48">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/10.png" num="83">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -213,7 +213,7 @@ A deck can have any number of cards named Rambunctious Fleas.</text>
 			<name>Smelt Shoveler</name>
 			<text>When this creature enters, create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)
 {T}, Sacrifice an artifact: This creature deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/11.png" num="64">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/11.png" num="111">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -230,7 +230,7 @@ A deck can have any number of cards named Rambunctious Fleas.</text>
 		<card>
 			<name>Grovelling Wanderer</name>
 			<text>{T}, {1}{W} or sacrifice an artifact: Put a +1/+1 counter on target creature you control.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/12.png" num="6">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/12.png" num="13">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -247,7 +247,7 @@ A deck can have any number of cards named Rambunctious Fleas.</text>
 		<card>
 			<name>Pharloom Guide</name>
 			<text>When this creature enters, for each nontoken creature you control with power or toughness 2 or less, create a 1/1 white Insect Pilgrim creature token.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/13.png" num="9">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/13.png" num="17">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -265,7 +265,7 @@ A deck can have any number of cards named Rambunctious Fleas.</text>
 			<name>Winged Bellbearer</name>
 			<text>Flying
 When this creature enters, if you control an artifact, draw a card. Otherwise, create two Bell tokens. (They&apos;re artifacts with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/14.png" num="16">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/14.png" num="25">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -281,9 +281,9 @@ When this creature enters, if you control an artifact, draw a card. Otherwise, c
 		</card>
 		<card>
 			<name>Pond Skipper</name>
-			<text>This creature can&apos;t be blocked as long as you control an artifact.
-Whenever this creature deals combat damage to an opponent, draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/15.png" num="28">HKS</set>
+			<text>This creature can&apos;t be blocked.
+Whenever this creature deals combat damage to an opponent, draw a card. Then discard a card unless you control an artifact.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/15.png" num="49">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -299,8 +299,8 @@ Whenever this creature deals combat damage to an opponent, draw a card, then dis
 		</card>
 		<card>
 			<name>Citadel Vents</name>
-			<text>Return target creature to its owner&apos;s hand. If you controlled that creature, create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/16.png" num="22">HKS</set>
+			<text>Return target creature or artifact to its owner&apos;s hand. If you controlled that creature or artifact, create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/16.png" num="39">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -316,7 +316,7 @@ Whenever this creature deals combat damage to an opponent, draw a card, then dis
 		<card>
 			<name>Defiant Will</name>
 			<text>Counter target spell. Create two Bell tokens. (They&apos;re artifacts with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/17.png" num="23">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/17.png" num="41">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -333,7 +333,7 @@ Whenever this creature deals combat damage to an opponent, draw a card, then dis
 			<name>Dreg Catcher</name>
 			<text>Menace
 {2}{B}, Exile a card from your graveyard: Each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/18.png" num="39">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/18.png" num="73">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,7 +350,7 @@ Whenever this creature deals combat damage to an opponent, draw a card, then dis
 		<card>
 			<name>Infested</name>
 			<text>Until end of turn, target creature gets &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control. Then create a 1/1 black and green Insect creature token.&quot;</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/19.png" num="41">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/19.png" num="75">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -367,7 +367,7 @@ Whenever this creature deals combat damage to an opponent, draw a card, then dis
 			<name>Plunge Into Void</name>
 			<text>Destroy target creature.
 Each player mills two cards.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/20.png" num="46">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/20.png" num="81">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +384,7 @@ Each player mills two cards.</text>
 			<name>Cogworker</name>
 			<text>Haste, Flying
 This creature can&apos;t block.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/21.png" num="54">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/21.png" num="99">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -401,7 +401,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Boiling Work</name>
 			<text>Boiling Work deals 3 damage to target creature. Create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/22.png" num="51">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/22.png" num="96">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -419,7 +419,7 @@ This creature can&apos;t block.</text>
 			<text>{2}, Sacrifice this creature: Choose one— 
 • Exile target artifact.
 • You gain 3 life. Create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/23.png" num="73">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/23.png" num="130">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -436,7 +436,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Hardbone Shell</name>
 			<text>Target creature gets gets your choice of +2/+2, hexproof or indestructible until end of turn. (A permanent with hexproof can&apos;t be the target of spells or abilities your opponents control.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/24.png" num="74">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/24.png" num="131">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -453,7 +453,7 @@ This creature can&apos;t block.</text>
 			<name>Bug Charge</name>
 			<text>Put a +1/+1 counter on target Insect you control.
 Target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/25.png" num="70">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/25.png" num="127">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -470,7 +470,7 @@ Target creature you control deals damage equal to its power to target creature y
 			<name>Elusive Cloverstag</name>
 			<text>Reach, Hexproof
 When this creature dies, return target non-Elk creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/26.png" num="71">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/26.png" num="128">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -489,7 +489,7 @@ When this creature dies, return target non-Elk creature card from your graveyard
 			<text>Equipped creature gets +1/+1.
 Whenever equipped creature deals combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
 Equip— Pay {3} or sacrifice an artifact. Activate this only once each turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/27.png" num="123">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/27.png" num="188">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -504,7 +504,7 @@ Equip— Pay {3} or sacrifice an artifact. Activate this only once each turn.</t
 			<name>Bell Throw</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or pay {2}.
 Destroy target creature with power 4 or greater.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/28.png" num="1">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/28.png" num="6">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -521,7 +521,7 @@ Destroy target creature with power 4 or greater.</text>
 			<name>Winged Vantage</name>
 			<text>Until end of turn, target creature gets +2/+2 and gains flying.
 Create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/29.png" num="17">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/29.png" num="26">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -538,7 +538,7 @@ Create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Targe
 			<name>Precise Driznid</name>
 			<text>Flying
 When this creature enters you may sacrifice an artifact, if you do, tap target creature, then put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/30.png" num="29">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/30.png" num="50">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -548,15 +548,15 @@ When this creature enters you may sacrifice an artifact, if you do, tap target c
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Patrolling Guardfly</name>
 			<text>Flying
-{B}, Exile a creature card from your graveyard: This creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/31.png" num="45">HKS</set>
+This creature gets +2/+0 as long as a card has left your graveyard this turn.</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/31.png" num="80">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -566,7 +566,7 @@ When this creature enters you may sacrifice an artifact, if you do, tap target c
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/3</pt>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -574,7 +574,7 @@ When this creature enters you may sacrifice an artifact, if you do, tap target c
 			<name>Skull Scuttler</name>
 			<text>Deathtouch
 When this creature dies, you may mill three cards.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/32.png" num="49">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/32.png" num="84">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -592,7 +592,7 @@ When this creature dies, you may mill three cards.</text>
 			<name>Cathartic Reunion</name>
 			<text>As an additional cost to cast this spell, discard two cards.
 Draw three cards.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/33.png" num="52">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/33.png" num="97">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -609,17 +609,17 @@ Draw three cards.</text>
 			<name>Underworks Underpoke</name>
 			<text>Flying
 When this creature enters, if you control an artifact or another creature with power or toughness 2 or less, this creature gains haste until end of turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/34.png" num="68">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/34.png" num="115">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Insect Citizen</type>
 				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -627,7 +627,7 @@ When this creature enters, if you control an artifact or another creature with p
 			<name>Splinterbark</name>
 			<text>Trample
 When this creature attacks, mill two cards.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/35.png" num="82">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/35.png" num="143">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -646,7 +646,7 @@ When this creature attacks, mill two cards.</text>
 			<text>Choose one —
 • Grind Down deals damage equal to the number of nonland permanents you control to target creature.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/36.png" num="60">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/36.png" num="105">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -662,7 +662,7 @@ When this creature attacks, mill two cards.</text>
 		<card>
 			<name>Servitor Ignim</name>
 			<text>When this creature enters, you may put target card from a graveyard onto the bottom of its owner&apos;s library.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/37.png" num="122">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/37.png" num="186">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -677,7 +677,7 @@ When this creature attacks, mill two cards.</text>
 		<card>
 			<name>Cogfly Workshop</name>
 			<text>When this artifact enters or is put into a graveyard from the battlefield, create a 1/1 red Insect Construct artifact creature token with flying.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/38.png" num="121">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/38.png" num="184">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -691,7 +691,7 @@ When this creature attacks, mill two cards.</text>
 		<card>
 			<name>Bone Compass</name>
 			<text>When this artifact enters or is put into a graveyard from the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/39.png" num="120">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/39.png" num="183">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -705,8 +705,8 @@ When this creature attacks, mill two cards.</text>
 		<card>
 			<name>Bench</name>
 			<text>Whenever a creature you control enters, you gain 1 life. This ability triggers only once each turn.
-{T}: Untap target creature.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/40.png" num="119">HKS</set>
+{T}: Untap another target creature.</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/40.png" num="182">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -720,7 +720,7 @@ When this creature attacks, mill two cards.</text>
 		<card>
 			<name>Overgrown Pilgrim</name>
 			<text>When this creature enters, you may sacrifice an artifact, if you do, exile target artifact or enchantment.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/41.png" num="114">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/41.png" num="176">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -738,7 +738,7 @@ When this creature attacks, mill two cards.</text>
 			<name>Carefree Yumas</name>
 			<text>Flying
 {3}{U}, exile this card from your graveyard, sacrifice an artifact: Draw two cards.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/42.png" num="21">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/42.png" num="38">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -756,7 +756,7 @@ When this creature attacks, mill two cards.</text>
 			<name>Unravelling Dreghusk</name>
 			<text>Lifelink
 When this creature dies, you may return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/43.png" num="118">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/43.png" num="180">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -771,26 +771,27 @@ When this creature dies, you may return target creature card with mana value 2 o
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Mire Mite</name>
-			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/44.png" num="113">HKS</set>
+			<name>Bloated Plasmidas</name>
+			<text>Defender
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature. Then it loses all abilities.</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/44.png" num="171">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Insect</type>
+				<type>Creature — Insect Mutant</type>
 				<maintype>Creature</maintype>
-				<manacost>3G/U</manacost>
-				<cmc>4</cmc>
+				<manacost>1G/U</manacost>
+				<cmc>2</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Servitor Doran</name>
 			<text>When this creature enters, you may sacrifice an artifact, if you do, return target instant or sorcery card from your graveyard to your hand. Otherwise, create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/45.png" num="116">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/45.png" num="178">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -808,7 +809,7 @@ When this creature dies, you may return target creature card with mana value 2 o
 			<name>Lofty Underloft</name>
 			<text>Flying
 This creature get +2/+0 as long as you&apos;ve sacrificed a permanent this turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/46.png" num="112">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/46.png" num="175">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -818,7 +819,7 @@ This creature get +2/+0 as long as you&apos;ve sacrificed a permanent this turn.
 				<cmc>4</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -827,7 +828,7 @@ This creature get +2/+0 as long as you&apos;ve sacrificed a permanent this turn.
 			<text>Enchant Creature
 When this Aura enters, tap enchanted creature.
 Enchanted creature has &quot;At the beginning of your upkeep, tap this creature unless you sacrifice an artifact.&quot;</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/47.png" num="19">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/47.png" num="36">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -845,7 +846,7 @@ Enchanted creature has &quot;At the beginning of your upkeep, tap this creature 
 			<text>Stoke 2 (You may sacrifice an artifact as you cast this spell if you do it costs {2} less to cast.)
 Creatures you control get +2/+0 until end of turn.
 Exile the top two cards of your library, you may play those cards until the end of your next turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/48.png" num="62">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/48.png" num="109">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -863,7 +864,7 @@ Exile the top two cards of your library, you may play those cards until the end 
 			<text>Draw a card, then discard a card.
 Create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)
 Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/49.png" num="33">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/49.png" num="55">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -882,7 +883,7 @@ Flashback {1}{U} (You may cast this card from your graveyard for its flashback c
 When this Aura enters, each player creates a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)
 Enchanted creature can&apos;t attack or block and has 
 &quot;At the beginning of your upkeep, sacrifice this creature unless you sacrifice an artifact.&quot;</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/50.png" num="7">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/50.png" num="14">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -898,8 +899,8 @@ Enchanted creature can&apos;t attack or block and has
 		<card>
 			<name>Giant Drapemite</name>
 			<text>This spell costs {1} less to cast for each artifact and/or creature card in your graveyard.
-Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/51.png" num="40">HKS</set>
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn. Activate this only as a sorcery.</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/51.png" num="74">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -909,14 +910,14 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>6/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Unfortunate Report</name>
 			<text>Look at the top three cards of your library, put one of them into your hand and the rest into your graveyard.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/52.png" num="32">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/52.png" num="54">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -933,7 +934,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Cogwork Hauler</name>
 			<text>{2}{R}, Sacrifice an artifact or land: Draw a card.
 When this creature dies, it deals 2 damage to target opponent.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/53.png" num="53">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/53.png" num="98">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -952,7 +953,7 @@ When this creature dies, it deals 2 damage to target opponent.</text>
 			<text>Equipped creature gets +1/+1 and is a Pilgrim in addition to its other types.
 When this Equipment enters or is put into a graveyard from the battlefield, create a 1/1 white Insect Pilgrim creature token.
 Equip {2}</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/54.png" num="11">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/54.png" num="19">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -967,8 +968,8 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Meekish Bellbearer</name>
-			<text>{4}{W}: Create a 1/1 white Insect Pilgrim creature token and a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/55.png" num="8">HKS</set>
+			<text>When this creature enters, create a Bell token.(Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/55.png" num="15">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -978,7 +979,7 @@ Equip {2}</text>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -986,7 +987,7 @@ Equip {2}</text>
 			<name>Thieving Craw</name>
 			<text>Flying
 Whenever this creature deals combat damage to an opponent, mill two cards, then create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/56.png" num="117">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/56.png" num="179">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1004,7 +1005,7 @@ Whenever this creature deals combat damage to an opponent, mill two cards, then 
 			<name>Drifting Driftlin</name>
 			<text>Flying
 When this creature enters, scry 2, then create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/57.png" num="110">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/57.png" num="173">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1021,7 +1022,7 @@ When this creature enters, scry 2, then create a Bell token (Its an artifact wit
 		<card>
 			<name>Choir Envoy</name>
 			<text>Whenever this creature attacks, another target creature you control with power or toughness 2 or less gets +2/+2 until end of turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/58.png" num="109">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/58.png" num="172">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1038,7 +1039,7 @@ When this creature enters, scry 2, then create a Bell token (Its an artifact wit
 		<card>
 			<name>Hardbone Hopper</name>
 			<text>When this creature enters, you may mill two cards, then return a creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/59.png" num="111">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/59.png" num="174">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1056,7 +1057,7 @@ When this creature enters, scry 2, then create a Bell token (Its an artifact wit
 			<name>Scurrying Skarrlid</name>
 			<text>{T}: Add {R} or {G}
 Whenever you cast a spell with mana value 4 or greater, untap this creature.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/60.png" num="115">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/60.png" num="177">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1073,7 +1074,7 @@ Whenever you cast a spell with mana value 4 or greater, untap this creature.</te
 		<card>
 			<name>Weaver Weavings</name>
 			<text>Metalcraft — Draw three cards, then discard a card unless you control three or more artifacts.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/61.png" num="34">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/61.png" num="56">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1090,7 +1091,7 @@ Whenever you cast a spell with mana value 4 or greater, untap this creature.</te
 			<name>Work Till Death</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or artifact.
 Destroy target creature.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/62.png" num="50">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/62.png" num="87">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1107,7 +1108,7 @@ Destroy target creature.</text>
 			<name>Swift Step</name>
 			<text>Until end of turn, target creature gets +1/+0 and gains first strike.
 Create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/63.png" num="67">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/63.png" num="114">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1124,7 +1125,7 @@ Create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Targe
 			<name>Pharloom&apos;s Wilds</name>
 			<text>Search your library for up to two basic land cards, reveal them, put them onto the battlefield tapped, then shuffle.
 Create two Bell tokens (They&apos;re artifacts with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/64.png" num="78">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/64.png" num="137">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1140,7 +1141,7 @@ Create two Bell tokens (They&apos;re artifacts with &quot;{1}, Sacrifice this to
 		<card>
 			<name>Flapping Fertid</name>
 			<text>At the beginning of your end step, if you&apos;ve cast a noncreature spell this turn, you gain 2 life.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/65.png" num="72">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/65.png" num="129">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1156,9 +1157,8 @@ Create two Bell tokens (They&apos;re artifacts with &quot;{1}, Sacrifice this to
 		</card>
 		<card>
 			<name>Cogworks underfly</name>
-			<text>Flying
-Sacrifice an artifact, {T}: Target creature with power or toughness 2 or less can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/66.png" num="55">HKS</set>
+			<text>Sacrifice an artifact, {T}: Target creature with power or toughness 2 or less can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/66.png" num="100">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1168,14 +1168,14 @@ Sacrifice an artifact, {T}: Target creature with power or toughness 2 or less ca
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Disgraced Cuisine</name>
 			<text>Target creature gains deathtouch and lifelink until end of turn. When that creature dies this turn, create a 1/1 black and green Insect creature token with flying.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/67.png" num="37">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/67.png" num="71">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1192,7 +1192,7 @@ Sacrifice an artifact, {T}: Target creature with power or toughness 2 or less ca
 			<name>Memory Crystal</name>
 			<text>{T}: Add {U}.
 Whenever you cast a noncreature spell, untap this artifact. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/68.png" num="26">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/68.png" num="46">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1210,7 +1210,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<text>Choose one
 • Courageous Charge deals damage equal to the number of nonland permanents you control to target creature.
 • Exile target artifact.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/69.png" num="5">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/69.png" num="11">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1227,7 +1227,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>High Halls</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/70.png" num="129">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/70.png" num="195">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1243,7 +1243,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Choral Chambers</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/71.png" num="126">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/71.png" num="192">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1259,7 +1259,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Bilewater</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/72.png" num="125">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/72.png" num="191">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1275,7 +1275,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Underworks</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/73.png" num="131">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/73.png" num="197">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1291,7 +1291,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Whiteward</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/74.png" num="134">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/74.png" num="200">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1307,7 +1307,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Coral Tower</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/75.png" num="127">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/75.png" num="193">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1323,7 +1323,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Putrified Ducts</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/76.png" num="130">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/76.png" num="196">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1339,7 +1339,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Verdania</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/77.png" num="132">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/77.png" num="198">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1355,7 +1355,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Whispering Vaults</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have seven or more cards in your graveyard.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/78.png" num="133">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/78.png" num="199">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1371,7 +1371,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Far Fields</name>
 			<text>Metalcraft Threshold — This land enters tapped unless you control three or more artifacts or have 7 or more cards in your graveyard.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/79.png" num="128">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/79.png" num="194">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1387,7 +1387,7 @@ Whenever you cast a noncreature spell, untap this artifact. This ability trigger
 			<name>Pilgrimage</name>
 			<text>Create two 1/1 white Insect Pilgrim creature tokens.
 Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/80.png" num="12">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/80.png" num="20">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1404,7 +1404,7 @@ Flashback {3}{W} (You may cast this card from your graveyard for its flashback c
 			<name>Pilgrim Pouncer</name>
 			<text>Congregate (Your tokens can help you cast this spell. Each token you tap while casting this spell pays for {1}) 
 During your turn, this creature has flying.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/81.png" num="10">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/81.png" num="18">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1420,9 +1420,8 @@ During your turn, this creature has flying.</text>
 		</card>
 		<card>
 			<name>Captured</name>
-			<text>Counter target spell unless its controller pays {2} or sacrifices an artifact.
-Create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/82.png" num="20">HKS</set>
+			<text>Counter target spell unless its controller pays {2}, if they do, create two Bell tokens. (They are artifacts with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/82.png" num="37">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1438,7 +1437,7 @@ Create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Targe
 		<card>
 			<name>Mnemonid</name>
 			<text>{2}{U}, exile this card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/83.png" num="27">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/83.png" num="47">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1456,7 +1455,7 @@ Create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Targe
 			<name>Flintstone Flyer</name>
 			<text>Flying
 Whenever this creature attacks, you may sacrifice an artifact, if you do, this creature deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/84.png" num="58">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/84.png" num="103">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1474,7 +1473,7 @@ Whenever this creature attacks, you may sacrifice an artifact, if you do, this c
 			<name>Smelted Flint</name>
 			<text>When this artifact leaves the battlefield, it deals 2 damage to target opponent.
 {2}{R}, {T}, Sacrifice this artifact: Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/85.png" num="65">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/85.png" num="112">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1490,7 +1489,7 @@ Whenever this creature attacks, you may sacrifice an artifact, if you do, this c
 		<card>
 			<name>Roachcatcher</name>
 			<text>{B}, Sacrifice a creature or artifact: Target Insect you control gets +1/+0 and gains lifelink until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/86.png" num="47">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/86.png" num="82">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1508,7 +1507,7 @@ Whenever this creature attacks, you may sacrifice an artifact, if you do, this c
 			<name>Mite Trap</name>
 			<text>When this artifact enters, up to one target creature gets -3/-3 until end of turn.
 Threshold — {1}{B}, Sacrifice this artifact: Draw a card. Activate this only if there are 7 or more cards in your graveyard.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/87.png" num="42">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/87.png" num="77">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1525,7 +1524,7 @@ Threshold — {1}{B}, Sacrifice this artifact: Draw a card. Activate this only i
 			<name>Bellevator</name>
 			<text>When this artifact enters, you may look at the top five cards of your library, reveal a creature or land card from among them, put it into your hand, then shuffle.
 {T}: Add {G}.</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/88.png" num="69">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/88.png" num="126">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1542,7 +1541,7 @@ Threshold — {1}{B}, Sacrifice this artifact: Draw a card. Activate this only i
 			<name>Splittering Splinterhorn</name>
 			<text>{T}: Add {G}.
 Whenever you expend 4, put a +1/+1 counter on target creature. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/89.png" num="83">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/89.png" num="144">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1560,7 +1559,7 @@ Whenever you expend 4, put a +1/+1 counter on target creature. (You expend 4 as 
 			<name>Burning Bug</name>
 			<text>{T}: Add {R}{G}.This mana can&apos;t be spent to cast a creature spell.
 When this creature dies, it deals 2 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/90.png" num="85">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/90.png" num="147">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1577,7 +1576,7 @@ When this creature dies, it deals 2 damage to each opponent.</text>
 		<card>
 			<name>Cogwork Crawler</name>
 			<text>When this creature enters, draw a card, then discard a card unless you control another creature with power 2 less.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/91.png" num="4">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/91.png" num="10">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1596,7 +1595,7 @@ When this creature dies, it deals 2 damage to each opponent.</text>
 			<text>Whenever you cast a spell with mana value 4 or greater, choose one —
 • Put three +1/+1 counters on target creature you control.
 • Create a 6/1 red Insect Spirit creature token with trample, haste and &quot;At the beginning of your end step, sacrifice this creature.&quot;</text>
-			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/92.png" num="96">HKS</set>
+			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/92.png" num="157">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1614,7 +1613,7 @@ When this creature dies, it deals 2 damage to each opponent.</text>
 			<name>Moorwing, Greymoor Beast</name>
 			<text>Flying, menace
 Whenever one or more Insects you control deal combat damage to an opponent, return target Insect creature card from your graveyard to the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/93.png" num="44">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/93.png" num="79">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1632,7 +1631,7 @@ Whenever one or more Insects you control deal combat damage to an opponent, retu
 			<name>Protective Moss Mother</name>
 			<text>Flying
 When this creature enters, create four 1/1 black and green Insect creature tokens with flying.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/94.png" num="79">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/94.png" num="138">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1650,7 +1649,7 @@ When this creature enters, create four 1/1 black and green Insect creature token
 			<name>Skarr Scout</name>
 			<text>First strike
 Whenever this creature attacks, if you&apos;ve cast a noncreature spell this turn, exile the top card of your library. You may play that card until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/95.png" num="63">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/95.png" num="110">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1668,7 +1667,7 @@ Whenever this creature attacks, if you&apos;ve cast a noncreature spell this tur
 			<name>Strung To Serve</name>
 			<text>This spell costs {3} less to cast if it targets a creature card with mana value 3 or less.
 Return target creature card with power or toughness 2 or less from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/96.png" num="15">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/96.png" num="24">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1685,7 +1684,7 @@ Return target creature card with power or toughness 2 or less from your graveyar
 			<name>The Forge Daughter</name>
 			<text>When The Forge Daughter enters, create two Bell tokens. (They&apos;re artifacts with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)
 {2}{R}, sacrifice an artifact: Search your library for an artifact card, put that card into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/97.png" num="59">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/97.png" num="104">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1702,7 +1701,7 @@ Return target creature card with power or toughness 2 or less from your graveyar
 		<card>
 			<name>Thirst For Purpose</name>
 			<text>Draw three cards. Then discard two cards unless you sacrifice an artifact.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/98.png" num="31">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/98.png" num="53">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1720,7 +1719,7 @@ Return target creature card with power or toughness 2 or less from your graveyar
 			<text>This artifact enters the battlefield tapped.
 At the beginning of your first main phase, add {C}.
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/99.png" num="124">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/99.png" num="190">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1735,7 +1734,7 @@ At the beginning of your first main phase, add {C}.
 			<name>The Crawfather</name>
 			<text>Flying
 Whenever a creature you control deals combat damage to an opponent, each player mills that many cards, then you create a treasure token for each artifact card milled this way.</text>
-			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/100.png" num="91">HKS</set>
+			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/100.png" num="152">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1754,7 +1753,7 @@ Whenever a creature you control deals combat damage to an opponent, each player 
 			<text>Flying
 Metalcraft — This spell costs {2} less to cast as long as you control three or more artifacts.
 When this creature enters, create three 1/1 red Insect Construct artifact creature tokens with flying.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/101.png" num="88">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/101.png" num="150">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1772,7 +1771,7 @@ When this creature enters, create three 1/1 red Insect Construct artifact creatu
 			<name>Choir Choristor</name>
 			<text>First strike, menace
 Other creatures you control with power or toughness 2 or less have menace.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/102.png" num="86">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/102.png" num="148">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1791,7 +1790,7 @@ Other creatures you control with power or toughness 2 or less have menace.</text
 			<text>Flying
 When this creature enters, surveil 2.
 Whenever one or more cards leave your graveyard, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/103.png" num="100">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/103.png" num="161">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1810,7 +1809,7 @@ Whenever one or more cards leave your graveyard, draw a card. This ability trigg
 			<text>Deathtouch
 Whenever this creature deals combat damage to an opponent, you mill three cards.
 {1}{B}{G}: Return this creature from your graveyard to the battlefield tapped. Activate this only if a permanent card was put into a graveyard this turn and only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/104.png" num="101">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/104.png" num="164">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1826,7 +1825,7 @@ Whenever this creature deals combat damage to an opponent, you mill three cards.
 		</card>
 		<card>
 			<name>Bell HKS</name>
-			<text></text>
+			<text>{1}, Sacrifice this token: Target creature you control gets +1/+0 until end of turn. Activate this only as a sorcery.</text>
 			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/105.png" num="6">HKS</set>
 			<prop>
 				<layout>normal</layout>
@@ -1944,20 +1943,18 @@ At the beginning of your end step, sacrifice this creature</text>
 		</card>
 		<card>
 			<name>Collective Yumama</name>
-			<text>Whenever you cast a noncreature spell, choose one —
-• Put a +1/+1 counter on this creature.
-• Remove a +1/+1 counter from this creature. If you do create a 1/1 blue Jellyfish creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/112.png" num="89">HKS</set>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/112.png" num="40">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Jellyfish</type>
 				<maintype>Creature</maintype>
-				<manacost>1GU</manacost>
-				<cmc>3</cmc>
-				<colors>UG</colors>
-				<coloridentity>UG</coloridentity>
-				<pt>2/2</pt>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1966,7 +1963,7 @@ At the beginning of your end step, sacrifice this creature</text>
 			<text>Trample
 This spells costs {2} less to cast for each permanent you&apos;ve sacrifice this turn.
 When this creature enters, create two Bell tokens (They&apos;re artifacts with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/113.png" num="107">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/113.png" num="170">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1984,7 +1981,7 @@ When this creature enters, create two Bell tokens (They&apos;re artifacts with &
 			<name>Karaka Warrior</name>
 			<text>Haste
 The second time you cast a noncreature spell each turn, create a token that&apos;s a copy of this creature.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/114.png" num="99">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/114.png" num="160">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2002,7 +1999,7 @@ The second time you cast a noncreature spell each turn, create a token that&apos
 			<name>Darting Verdanir</name>
 			<text>First strike
 Whenever this creature becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/115.png" num="92">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/115.png" num="153">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2020,7 +2017,7 @@ Whenever this creature becomes the target of a spell or ability you control for 
 			<name>Dregwheel</name>
 			<text>When this creature enters, draw a card.
 When this creature dies, you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/116.png" num="94">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/116.png" num="155">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2054,8 +2051,8 @@ When this creature dies, you gain 2 life.</text>
 		</card>
 		<card>
 			<name>Choir Sermon</name>
-			<text>At the beginning of combat on your turn, create a 1/1 white Insect Pilgrim creature token. Then creatures you control with power or toughness 2 gain haste until the start of your next turn.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/118.png" num="87">HKS</set>
+			<text>At the beginning of combat on your turn, create a 1/1 white Insect Pilgrim creature token. Then creatures you control with power or toughness 2 or less gain haste until the start of your next turn.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/118.png" num="149">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2073,7 +2070,7 @@ When this creature dies, you gain 2 life.</text>
 			<text>Equipped creature gets +2/+1.
 Equipped creature has flying as long as this Equipment or another artifact you control entered this turn
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/119.png" num="102">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/119.png" num="165">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2090,7 +2087,7 @@ Equip {1}</text>
 			<name>Silken Surgery</name>
 			<text>Congregate (Your tokens can help you cast this spell. Each token you tap while casting this spell pays for {1})
 Return any number of creature cards with total mana value X or less from your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/120.png" num="106">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/120.png" num="169">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2108,7 +2105,7 @@ Return any number of creature cards with total mana value X or less from your gr
 			<text>Equipped creature gets +1/+1 and has trample.
 The first time this Equipment is attached to a creature each turn, you gain 1 life.
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/121.png" num="95">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/121.png" num="156">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2126,7 +2123,7 @@ Equip {1}</text>
 			<text>Surveil 2. 
 Draw a card.
 Threshold — At the beginning of your upkeep, if you have seven or more cards in your graveyard, you may exile two cards from your graveyard, if you do, return this card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/122.png" num="104">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/122.png" num="167">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2143,7 +2140,7 @@ Threshold — At the beginning of your upkeep, if you have seven or more cards i
 			<name>Conch Cutter</name>
 			<text>When this artifact enters, it deals 2 damage to any target.
 Whenever a creature you control deals combat damage to an opponent, you may pay {1}, if you do, return this artifact to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/123.png" num="90">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/123.png" num="151">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2158,19 +2155,17 @@ Whenever a creature you control deals combat damage to an opponent, you may pay 
 		</card>
 		<card>
 			<name>Wreath of Purity</name>
-			<text>Flash
-When this artifact enters, put a +1/+1 on target creature you control, that creature gains hexproof until end of turn.
-{T}: Add {G} or {U}.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/124.png" num="108">HKS</set>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/124.png" num="145">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>1GU</manacost>
+				<manacost>2G</manacost>
 				<cmc>3</cmc>
-				<colors>UG</colors>
-				<coloridentity>UG</coloridentity>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -2179,7 +2174,7 @@ When this artifact enters, put a +1/+1 on target creature you control, that crea
 			<text>When this equipment enters, create a Bell token (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn.)
 Whenever equipped creature attacks, you may sacrifice an artifact, if you do, until end of turn, equipped creature gets +2/+2 and gains trample.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/125.png" num="57">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/125.png" num="102">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2196,7 +2191,7 @@ Equip {2}</text>
 			<name>Bilewater Traps</name>
 			<text>Whenever a nontoken Insect card is put into a graveyard from anywhere, untap this artifact.
 {T}: Create a 1/1 black and green Insect creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/126.png" num="84">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/126.png" num="146">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2213,7 +2208,7 @@ Equip {2}</text>
 			<name>Hunter Instincts</name>
 			<text>At the beginning of combat on your turn, untap each creature you control.
 When this enchantment enters, create two 2/2 red Insect Warrior creature tokens.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/127.png" num="98">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/127.png" num="159">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2230,7 +2225,7 @@ When this enchantment enters, create two 2/2 red Insect Warrior creature tokens.
 			<name>Wraith of the Mist</name>
 			<text>Flying
 This creature enters with two -1/-1 counters on it if you cast it from your hand.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/128.png" num="18">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/128.png" num="27">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2246,9 +2241,8 @@ This creature enters with two -1/-1 counters on it if you cast it from your hand
 		</card>
 		<card>
 			<name>Swamp Squit</name>
-			<text>Flying
-When this creature dies, you may exile this card and another target card from your graveyard, if you do, return target noncreature card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/129.png" num="30">HKS</set>
+			<text>When this creature dies, you may exile this card and another target card from your graveyard, if you do, return target noncreature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/129.png" num="52">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2258,7 +2252,7 @@ When this creature dies, you may exile this card and another target card from yo
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2267,7 +2261,7 @@ When this creature dies, you may exile this card and another target card from yo
 			<text>Flying
 When this creature enters, create two Bell tokens (They&apos;re artifacts with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)
 Whenever this creature attacks, you may sacrifice an artifact, if you do, creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/130.png" num="56">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/130.png" num="101">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2285,7 +2279,7 @@ Whenever this creature attacks, you may sacrifice an artifact, if you do, creatu
 			<name>Disgraced Chef Lugoli</name>
 			<text>{B}, Sacrifice a creature: Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
 Foods you control have &quot;{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life.&quot;</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/131.png" num="36">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/131.png" num="70">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2304,7 +2298,7 @@ Foods you control have &quot;{2}, {T}, Sacrifice this artifact: Target opponent 
 			<text>Trample
 When this creature enters you may mill four cards.
 Insects you control get +X/+0 where X is the number of creature cards in your graveyard</text>
-			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/132.png" num="81">HKS</set>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/132.png" num="142">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2323,7 +2317,7 @@ Insects you control get +X/+0 where X is the number of creature cards in your gr
 			<text>Equipped creature gets +2/+0 and has trample.
 Whenever equipped creature deals combat damage to an opponent, create a Bell token. 
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/133.png" num="93">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/133.png" num="154">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2338,13 +2332,13 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Zango, Plasmified Husk</name>
-			<text>Whenever you draw a card, Zango gains +0/+2 until end of turn.
+			<text>Whenever you draw a card, Zango gets +0/+2 until end of turn.
 {1}{U}: Zango assigns combat damage equal to his toughness rather than his power until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/134.png" num="35">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/134.png" num="57">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Insect</type>
+				<type>Legendary Creature — Insect Mutant</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -2358,7 +2352,7 @@ Equip {2}</text>
 			<name>The Pinstress</name>
 			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
 Metalcraft — The Pinstress and creatures you control with counters on them have vigilance and flying as long as you control three or more artifacts.</text>
-			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/135.png" num="103">HKS</set>
+			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/135.png" num="166">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2376,7 +2370,7 @@ Metalcraft — The Pinstress and creatures you control with counters on them hav
 			<name>Garmond and Zaza</name>
 			<text>First strike
 Whenever Garmond and Zaza attack with one or more creatures, they gain +2/+0 and trample for each attacking creature with power or toughness 2 or less until end of turn.</text>
-			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/136.png" num="97">HKS</set>
+			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/136.png" num="158">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2394,7 +2388,7 @@ Whenever Garmond and Zaza attack with one or more creatures, they gain +2/+0 and
 			<name>Pinmaster Plinney</name>
 			<text>{T}, Sacrifice an artifact: Create a colorless Equipment artifact token named Pin with &quot;Equipped creature gets +1/+1&quot; and equip {1}.
 Equipped creatures you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/137.png" num="13">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/137.png" num="21">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2412,7 +2406,7 @@ Equipped creatures you control get +1/+1.</text>
 			<name>Scrounge, Relic Seeker</name>
 			<text>Whenever an artifact you control enters, put a +1/+1counter on Scrounge. 
 Whenever a nontoken artifact you control enters, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/138.png" num="14">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/138.png" num="22">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2430,7 +2424,7 @@ Whenever a nontoken artifact you control enters, draw a card. This ability trigg
 			<name>Eva, Silked Child</name>
 			<text>Whenever you cast a noncreature spell, you may 2 mill cards.
 Metalcraft — {U}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. Activate this only if you control three or more artifacts.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/139.png" num="25">HKS</set>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/139.png" num="43">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2448,8 +2442,8 @@ Metalcraft — {U}: Target instant or sorcery card in your graveyard gains flash
 			<name>Sprintmaster Swift</name>
 			<text>Haste
 The first time an opponent loses life during each of your turns, put a speed counter on Sprintmaster Swift.
-Remove four speed counters from Sprintmaster Swift: Creatures you control can&apos;t be blocked until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/140.png" num="66">HKS</set>
+Remove three speed counters from Sprintmaster Swift: Creatures you control with power or toughness 2 or less can&apos;t be blocked until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/140.png" num="113">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2467,7 +2461,7 @@ Remove four speed counters from Sprintmaster Swift: Creatures you control can&ap
 			<name>Shakra, Wielding Rings</name>
 			<text>Whenever Shakra enters or attacks, create a map token.
 Whenever a creature you control becomes the target of a spell or ability you control, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/141.png" num="105">HKS</set>
+			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/141.png" num="168">HKS</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2478,6 +2472,1115 @@ Whenever a creature you control becomes the target of a spell or ability you con
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/142.png" num="5">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Covetous Pilgrim</name>
+			<text>Congregate (Your tokens can help you cast this spell. Each token you tap while casting this spell pays for 1) 
+When this creature enters, put a +1/+1 counter on it for each artifact you control.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/143.png" num="12">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pilgrim</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/144.png" num="2">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/145.png" num="3">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/146.png" num="4">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/147.png" num="1">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seek the Silk</name>
+			<text>Put a +1/+1 counter on target creature, then reveal the top five cards of your library, you may put a creature card with lower power among them into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/148.png" num="23">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Memories of the Weavers</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/149.png" num="16">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cogwork Choirbug</name>
+			<text>When this creature enters or dies, create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/150.png" num="9">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/151.png" num="95">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/152.png" num="94">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/153.png" num="91">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/154.png" num="89">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/155.png" num="90">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/156.png" num="88">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/157.png" num="92">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/158.png" num="93">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memories of the Skarr</name>
+			<text>When this enchantment enters, it deals X damage to any target.
+As long you&apos;ve expended 6 this turn, if a source you control would deal damage to a permanent or players, it deals twice that much damage instead.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/159.png" num="108">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lava Deep Diver</name>
+			<text>Stoke 2 (You may sacrifice an artifact as you cast this spell if you do it costs {2} less to cast.)
+Reach, trample, haste</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/160.png" num="106">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/161.png" num="29">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/162.png" num="28">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/163.png" num="33">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/164.png" num="32">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/165.png" num="31">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/166.png" num="30">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/167.png" num="35">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/168.png" num="34">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plasmium Cocoon</name>
+			<text>Flash
+When this artifact enters or is put into a graveyard from the battlefield, target creature you control gets +0/+3 until end of turn. 
+{3}{U}, Sacrifice this artifact: Draw two cards.</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/169.png" num="48">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memories of Karak</name>
+			<text>When this enchantment enters, surveil X.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/170.png" num="45">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Summoned to Penance</name>
+			<text>Target nonland permanent&apos;s owner puts it on the top or bottom of their library.
+Create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Trox081.github.io/sets/HKS-files/img/171.png" num="51">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/172.png" num="116">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/173.png" num="117">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/174.png" num="118">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/175.png" num="119">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/176.png" num="120">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/177.png" num="121">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/178.png" num="122">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/179.png" num="123">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/180.png" num="125">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/181.png" num="124">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Motled Skarr</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/182.png" num="136">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memories of Verdania</name>
+			<text>When this enchantment enters, put a +1/+1 counter on up to X target creatures you control.
+Whenever a creature you control becomes the target of a spell or ability you control, it gets +1+1 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/183.png" num="134">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>X1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rhinogrund</name>
+			<text>Trample
+At the beginning of your end step, if you&apos;ve expended 6 this turn, Put a +1/+1 counter on up to 2 target creatures. (You expend 6 as you spend your sixth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/184.png" num="140">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/185.png" num="63">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/186.png" num="59">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/187.png" num="62">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/188.png" num="61">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/189.png" num="60">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/190.png" num="68">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/191.png" num="64">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/192.png" num="67">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/193.png" num="66">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/194.png" num="69">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/195.png" num="65">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memories of the Void</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/196.png" num="76">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wardenfly</name>
+			<text>Trample
+When this creature dies, you gain 3 life.
+{2}{B}, Exile this card from your graveyard: Target creature gets -2/-2 until end of turn. Activate this only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/197.png" num="86">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slab Penitent</name>
+			<text>When this creature enters, you may mill 2 cards.
+Threshold — This creature can&apos;t attack unless you have 7 or more cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/198.png" num="85">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>High Halls Minister</name>
+			<text>Flying
+Metalcraft — Whenever this creature deals combat damage to an opponent, draw a card, then discard a card unless you control three or more artifacts.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/199.png" num="44">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seth, Shrine Guardian</name>
+			<text>Vigilance
+Whenever Seth becomes the target of a spell or ability you control, creature you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/200.png" num="141">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary — Insect Warrior</type>
+				<maintype>Legendary</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zylotol, Plasmium Alchemist</name>
+			<text>Whenever you draw a card, target creature you control gets +0/+2 until end of turn.
+{2}{G}{U}: Transform Zylotol. Activate this only if you control a creature with toughness 10 or greater.
+---
+(Back): Zylotol, Plasmium Mind</text>
+			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/201_front.png" num="58a">HKS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Zylotol, Plasmium Mind</related>
+		</card>
+		<card>
+			<name>Zylotol, Plasmium Mind</name>
+			<text>At the beginning of combat on your turn, choose one —
+• You may sacrifice another creature, if you do, draws cards equal to its toughness, then discards cards equal to its power.
+• Double target creature&apos;s toughness until end of turn.
+---
+(Front): Zylotol, Plasmium Alchemist</text>
+			<set rarity="rare" picurl="https://Trox081.github.io/sets/HKS-files/img/201_back.png" num="58b">HKS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Insect Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Zylotol, Plasmium Alchemist</related>
+		</card>
+		<card>
+			<name>Lifeblood Alchemy</name>
+			<text>Choose one —
+• Until end of turn, creatures you control get +0/+2 and assign combat damage equal to their toughness rather than their power.
+• Draw cards equal to the greatest toughness among creature you control.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/202.png" num="162">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lurking Plasmid</name>
+			<text>Whenever you draw your second card each turn, double another target creature&apos;s power or toughness until end of turn.
+This creature assigns combat damage equal to its toughness rather than its power.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/203.png" num="163">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silkspeed Anklets</name>
+			<text>Equipped creature has haste.
+{2}: Equipped creature gets +1/+0 until end of turn. Activate this only during your turn.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/204.png" num="187">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grand Gate</name>
+			<text>Defender
+At the beginning of your upkeep, create a Bell token. (Its an artifact with &quot;{1}, Sacrifice this token: Target creature you control gets +1/+0 until end of turn. Activate this only as a sorcery.)
+As long as you control 5 or more Bell tokens, creatures you control have +1/+1.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/205.png" num="185">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul Guide Lantern</name>
+			<text>When this artifact enters, exile target card from a graveyard.
+{T}, Sacrifice this artifact: Exile each opponent&apos;s graveyard.
+{1}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/206.png" num="189">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Shardilard</name>
+			<text>Flying
+{8}: Return this creature from your graveyard to the battlefield with a finality counter on it. This ability costs {1} less to activate for each artifact you control. Activate this only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Trox081.github.io/sets/HKS-files/img/207.png" num="181">HKS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

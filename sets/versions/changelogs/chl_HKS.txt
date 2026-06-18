@@ -1,4 +1,389 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Bloated Plasmidas added.
+Covetous Pilgrim added.
+Seek the Silk added.
+Memories of the Weavers added.
+Cogwork Choirbug added.
+Memories of the Skarr added.
+Lava Deep Diver added.
+Plasmium Cocoon added.
+Memories of Karak added.
+Summoned to Penance added.
+Motled Skarr added.
+Memories of Verdania added.
+Rhinogrund added.
+Memories of the Void added.
+Wardenfly added.
+Slab Penitent added.
+High Halls Minister added.
+Seth, Shrine Guardian added.
+Zylotol, Plasmium Alchemist added.
+Lifeblood Alchemy added.
+Lurking Plasmid added.
+Silkspeed Anklets added.
+Grand Gate added.
+Soul Guide Lantern added.
+Ancient Shardilard added.
+
+Mire Mite removed.
+
+Pharloom Guide
+
+Pond Skipper
+rules_text: This creature can't be blocked as long as you control an artifact.
+Whenever this creature deals combat damage to an opponent, draw a card, then discard a card. => This creature can't be blocked.
+Whenever this creature deals combat damage to an opponent, draw a card. Then discard a card unless you control an artifact.
+
+Citadel Vents
+rules_text: Return target creature to its owner's hand. If you controlled that creature, create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i] => Return target creature or artifact to its owner's hand. If you controlled that creature or artifact, create a Bell token. [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Defiant Will
+
+Dreg Catcher
+
+Precise Driznid
+pt: 2/2 => 3/2
+
+Patrolling Guardfly
+rules_text: Flying
+{B}, Exile a creature card from your graveyard: This creature gets +1/+0 until end of turn. => Flying
+This creature gets +2/+0 as long as a card has left your graveyard this turn.
+pt: 2/3 => 1/4
+
+Underworks Underpoke
+cost: {3}{R} => {2}{R}
+pt: 3/2 => 2/2
+
+Bone Compass
+
+Bench
+rules_text: Whenever a creature you control enters, you gain 1 life. This ability triggers only once each turn.
+{T}: Untap target creature. => Whenever a creature you control enters, you gain 1 life. This ability triggers only once each turn.
+{T}: Untap another target creature.
+
+Lofty Underloft
+pt: 2/2 => 1/4
+
+Giant Drapemite
+rules_text: This spell costs {1} less to cast for each artifact and/or creature card in your graveyard.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => This spell costs {1} less to cast for each artifact and/or creature card in your graveyard.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn. Activate this only as a sorcery.
+pt: 6/4 => 4/4
+
+Meekish Bellbearer
+rules_text: {4}{W}: Create a 1/1 white Insect Pilgrim creature token and a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i] => When this creature enters, create a Bell token.(Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)
+pt: 2/2 => 1/2
+
+Weaver Weavings
+
+Cogworks underfly
+rules_text: Flying
+Sacrifice an artifact, {T}: Target creature with power or toughness 2 or less can't be blocked this turn. => Sacrifice an artifact, {T}: Target creature with power or toughness 2 or less can't be blocked this turn.
+pt: 1/1 => 2/2
+
+Disgraced Cuisine
+
+Captured
+rules_text: Counter target spell unless its controller pays {2} or sacrifices an artifact.
+Create a Bell token [i](Its an artifact with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i] => Counter target spell unless its controller pays {2}, if they do, create two Bell tokens. [i](They are artifacts with “{1}, Sacrifice this token: Target creature gets +1/+0 until end of turn. Activate this only as sorcery.”)[/i]
+
+Strung To Serve
+
+Bell
+rules_text:  => {1}, Sacrifice this token: Target creature you control gets +1/+0 until end of turn. Activate this only as a sorcery.
+
+Collective Yumama
+cost: {1}{G}{U} => {3}{U}{U}
+rules_text: Whenever you cast a noncreature spell, choose one —
+• Put a +1/+1 counter on this creature.
+• Remove a +1/+1 counter from this creature. If you do create a 1/1 blue Jellyfish creature token with flying. => 
+pt: 2/2 => 0/6
+
+Choir Sermon
+rules_text: At the beginning of combat on your turn, create a 1/1 white Insect Pilgrim creature token. Then creatures you control with power or toughness 2 gain haste until the start of your next turn. => At the beginning of combat on your turn, create a 1/1 white Insect Pilgrim creature token. Then creatures you control with power or toughness 2 or less gain haste until the start of your next turn.
+
+Wreath of Purity
+cost: {1}{G}{U} => {2}{G}
+rules_text: Flash
+When this artifact enters, put a +1/+1 on target creature you control, that creature gains hexproof until end of turn.
+{T}: Add {G} or {U}. => 
+
+Swamp Squit
+rules_text: Flying
+When this creature dies, you may exile this card and another target card from your graveyard, if you do, return target noncreature card from your graveyard to your hand. => When this creature dies, you may exile this card and another target card from your graveyard, if you do, return target noncreature card from your graveyard to your hand.
+pt: 2/1 => 2/2
+
+Disgraced Chef Lugoli
+
+Zango, Plasmified Husk
+type: Legendary Creature — Insect => Legendary Creature — Insect Mutant
+rules_text: Whenever you draw a card, Zango gains +0/+2 until end of turn.
+{1}{U}: Zango assigns combat damage equal to his toughness rather than his power until end of turn. => Whenever you draw a card, Zango gets +0/+2 until end of turn.
+{1}{U}: Zango assigns combat damage equal to his toughness rather than his power until end of turn.
+
+Sprintmaster Swift
+rules_text: Haste
+The first time an opponent loses life during each of your turns, put a speed counter on Sprintmaster Swift.
+Remove four speed counters from Sprintmaster Swift: Creatures you control can't be blocked until end of turn. => Haste
+The first time an opponent loses life during each of your turns, put a speed counter on Sprintmaster Swift.
+Remove three speed counters from Sprintmaster Swift: Creatures you control with power or toughness 2 or less can't be blocked until end of turn.
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {W}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {W}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {W}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {W}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {W}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {R}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {U}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {G}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+type: Creature — Insect Citizen => 
+cost: {2}{W} => {B}
+rules_text: When this creature enters, create a 1/1 white Insect Pilgrim creature token. => 
+pt: 2/2 => 
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Roachcatcher added.
